@@ -1,0 +1,882 @@
+GEO.id,GEO.id2,GEO.display-label,GCT_STUB.target-geo-id,GCT_STUB.target-geo-id2,GCT_STUB.display-label,GCT_STUB.display-label,HC01,HC02
+Id,Id2,Geography,Target Geo Id,Target Geo Id2,Geographic Area,Geographic Area,Dollar,Margin of Error
+0400000US01,01,Alabama,0400000US01,01,Alabama,Alabama,42830,598
+0400000US01,01,Alabama,0500000US01003,01003,Alabama - Baldwin County,Baldwin County,48461,3434
+0400000US01,01,Alabama,0500000US01015,01015,Alabama - Calhoun County,Calhoun County,41428,2300
+0400000US01,01,Alabama,0500000US01043,01043,Alabama - Cullman County,Cullman County,38261,4000
+0400000US01,01,Alabama,0500000US01049,01049,Alabama - DeKalb County,DeKalb County,35023,7253
+0400000US01,01,Alabama,0500000US01051,01051,Alabama - Elmore County,Elmore County,55530,5844
+0400000US01,01,Alabama,0500000US01055,01055,Alabama - Etowah County,Etowah County,40529,2807
+0400000US01,01,Alabama,0500000US01069,01069,Alabama - Houston County,Houston County,39543,2187
+0400000US01,01,Alabama,0500000US01073,01073,Alabama - Jefferson County,Jefferson County,44646,1783
+0400000US01,01,Alabama,0500000US01077,01077,Alabama - Lauderdale County,Lauderdale County,40309,3318
+0400000US01,01,Alabama,0500000US01081,01081,Alabama - Lee County,Lee County,39932,3096
+0400000US01,01,Alabama,0500000US01083,01083,Alabama - Limestone County,Limestone County,49672,4555
+0400000US01,01,Alabama,0500000US01089,01089,Alabama - Madison County,Madison County,58339,3599
+0400000US01,01,Alabama,0500000US01095,01095,Alabama - Marshall County,Marshall County,33446,3712
+0400000US01,01,Alabama,0500000US01097,01097,Alabama - Mobile County,Mobile County,43642,2450
+0400000US01,01,Alabama,0500000US01101,01101,Alabama - Montgomery County,Montgomery County,43346,3235
+0400000US01,01,Alabama,0500000US01103,01103,Alabama - Morgan County,Morgan County,44708,3183
+0400000US01,01,Alabama,0500000US01115,01115,Alabama - St. Clair County,St. Clair County,50146,4465
+0400000US01,01,Alabama,0500000US01117,01117,Alabama - Shelby County,Shelby County,67754,4639
+0400000US01,01,Alabama,0500000US01121,01121,Alabama - Talladega County,Talladega County,39971,4241
+0400000US01,01,Alabama,0500000US01125,01125,Alabama - Tuscaloosa County,Tuscaloosa County,47531,2660
+0400000US01,01,Alabama,0500000US01127,01127,Alabama - Walker County,Walker County,35495,4993
+0400000US02,02,Alaska,0400000US02,02,Alaska,Alaska,71583,1784
+0400000US02,02,Alaska,0500000US02020,02020,Alaska - Anchorage Municipality,Anchorage Municipality,76337,3965
+0400000US02,02,Alaska,0500000US02090,02090,Alaska - Fairbanks North Star Borough,Fairbanks North Star Borough,69820,6748
+0400000US02,02,Alaska,0500000US02170,02170,Alaska - Matanuska-Susitna Borough,Matanuska-Susitna Borough,73831,3106
+0400000US04,04,Arizona,0400000US04,04,Arizona,Arizona,50068,483
+0400000US04,04,Arizona,0500000US04001,04001,Arizona - Apache County,Apache County,33076,3818
+0400000US04,04,Arizona,0500000US04003,04003,Arizona - Cochise County,Cochise County,45688,2754
+0400000US04,04,Arizona,0500000US04005,04005,Arizona - Coconino County,Coconino County,49757,5462
+0400000US04,04,Arizona,0500000US04013,04013,Arizona - Maricopa County,Maricopa County,53896,933
+0400000US04,04,Arizona,0500000US04015,04015,Arizona - Mohave County,Mohave County,37674,2295
+0400000US04,04,Arizona,0500000US04017,04017,Arizona - Navajo County,Navajo County,34600,4016
+0400000US04,04,Arizona,0500000US04019,04019,Arizona - Pima County,Pima County,45856,1267
+0400000US04,04,Arizona,0500000US04021,04021,Arizona - Pinal County,Pinal County,49867,2461
+0400000US04,04,Arizona,0500000US04025,04025,Arizona - Yavapai County,Yavapai County,44255,1978
+0400000US04,04,Arizona,0500000US04027,04027,Arizona - Yuma County,Yuma County,40008,2339
+0400000US05,05,Arkansas,0400000US05,05,Arkansas,Arkansas,41262,653
+0400000US05,05,Arkansas,0500000US05007,05007,Arkansas - Benton County,Benton County,56981,3951
+0400000US05,05,Arkansas,0500000US05031,05031,Arkansas - Craighead County,Craighead County,42691,3605
+0400000US05,05,Arkansas,0500000US05045,05045,Arkansas - Faulkner County,Faulkner County,51650,4292
+0400000US05,05,Arkansas,0500000US05051,05051,Arkansas - Garland County,Garland County,41032,3008
+0400000US05,05,Arkansas,0500000US05069,05069,Arkansas - Jefferson County,Jefferson County,32433,5327
+0400000US05,05,Arkansas,0500000US05085,05085,Arkansas - Lonoke County,Lonoke County,54545,4640
+0400000US05,05,Arkansas,0500000US05119,05119,Arkansas - Pulaski County,Pulaski County,44860,2787
+0400000US05,05,Arkansas,0500000US05125,05125,Arkansas - Saline County,Saline County,53926,4798
+0400000US05,05,Arkansas,0500000US05131,05131,Arkansas - Sebastian County,Sebastian County,38418,3082
+0400000US05,05,Arkansas,0500000US05143,05143,Arkansas - Washington County,Washington County,45034,2987
+0400000US05,05,Arkansas,0500000US05145,05145,Arkansas - White County,White County,39340,6333
+0400000US06,06,California,0400000US06,06,California,California,61933,238
+0400000US06,06,California,0500000US06001,06001,California - Alameda County,Alameda County,77214,1363
+0400000US06,06,California,0500000US06007,06007,California - Butte County,Butte County,42365,2303
+0400000US06,06,California,0500000US06013,06013,California - Contra Costa County,Contra Costa County,80361,1989
+0400000US06,06,California,0500000US06017,06017,California - El Dorado County,El Dorado County,71113,5901
+0400000US06,06,California,0500000US06019,06019,California - Fresno County,Fresno County,43423,2016
+0400000US06,06,California,0500000US06023,06023,California - Humboldt County,Humboldt County,40598,3137
+0400000US06,06,California,0500000US06025,06025,California - Imperial County,Imperial County,39290,5526
+0400000US06,06,California,0500000US06029,06029,California - Kern County,Kern County,47644,2483
+0400000US06,06,California,0500000US06031,06031,California - Kings County,Kings County,42784,4703
+0400000US06,06,California,0500000US06033,06033,California - Lake County,Lake County,34529,4804
+0400000US06,06,California,0500000US06037,06037,California - Los Angeles County,Los Angeles County,55746,585
+0400000US06,06,California,0500000US06039,06039,California - Madera County,Madera County,42433,3906
+0400000US06,06,California,0500000US06041,06041,California - Marin County,Marin County,95749,8275
+0400000US06,06,California,0500000US06045,06045,California - Mendocino County,Mendocino County,42660,3536
+0400000US06,06,California,0500000US06047,06047,California - Merced County,Merced County,44084,3060
+0400000US06,06,California,0500000US06053,06053,California - Monterey County,Monterey County,57864,2369
+0400000US06,06,California,0500000US06055,06055,California - Napa County,Napa County,74123,5828
+0400000US06,06,California,0500000US06057,06057,California - Nevada County,Nevada County,56917,6308
+0400000US06,06,California,0500000US06059,06059,California - Orange County,Orange County,76306,1371
+0400000US06,06,California,0500000US06061,06061,California - Placer County,Placer County,75390,2716
+0400000US06,06,California,0500000US06065,06065,California - Riverside County,Riverside County,57006,949
+0400000US06,06,California,0500000US06067,06067,California - Sacramento County,Sacramento County,55842,1118
+0400000US06,06,California,0500000US06071,06071,California - San Bernardino County,San Bernardino County,52041,919
+0400000US06,06,California,0500000US06073,06073,California - San Diego County,San Diego County,66192,1085
+0400000US06,06,California,0500000US06075,06075,California - San Francisco County,San Francisco County,85070,3216
+0400000US06,06,California,0500000US06077,06077,California - San Joaquin County,San Joaquin County,51659,1352
+0400000US06,06,California,0500000US06079,06079,California - San Luis Obispo County,San Luis Obispo County,63474,4084
+0400000US06,06,California,0500000US06081,06081,California - San Mateo County,San Mateo County,101051,1495
+0400000US06,06,California,0500000US06083,06083,California - Santa Barbara County,Santa Barbara County,63833,3988
+0400000US06,06,California,0500000US06085,06085,California - Santa Clara County,Santa Clara County,97532,2089
+0400000US06,06,California,0500000US06087,06087,California - Santa Cruz County,Santa Cruz County,65368,5854
+0400000US06,06,California,0500000US06089,06089,California - Shasta County,Shasta County,43706,2646
+0400000US06,06,California,0500000US06095,06095,California - Solano County,Solano County,67999,3930
+0400000US06,06,California,0500000US06097,06097,California - Sonoma County,Sonoma County,67771,3392
+0400000US06,06,California,0500000US06099,06099,California - Stanislaus County,Stanislaus County,51084,1346
+0400000US06,06,California,0500000US06101,06101,California - Sutter County,Sutter County,54433,4538
+0400000US06,06,California,0500000US06107,06107,California - Tulare County,Tulare County,42611,2208
+0400000US06,06,California,0500000US06111,06111,California - Ventura County,Ventura County,75449,2069
+0400000US06,06,California,0500000US06113,06113,California - Yolo County,Yolo County,53765,3809
+0400000US06,06,California,0500000US06115,06115,California - Yuba County,Yuba County,42143,6512
+0400000US08,08,Colorado,0400000US08,08,Colorado,Colorado,61303,487
+0400000US08,08,Colorado,0500000US08001,08001,Colorado - Adams County,Adams County,59659,2189
+0400000US08,08,Colorado,0500000US08005,08005,Colorado - Arapahoe County,Arapahoe County,65327,1919
+0400000US08,08,Colorado,0500000US08013,08013,Colorado - Boulder County,Boulder County,71540,3599
+0400000US08,08,Colorado,0500000US08031,08031,Colorado - Denver County,Denver County,54941,1939
+0400000US08,08,Colorado,0500000US08035,08035,Colorado - Douglas County,Douglas County,103226,5337
+0400000US08,08,Colorado,0500000US08041,08041,Colorado - El Paso County,El Paso County,59446,2297
+0400000US08,08,Colorado,0500000US08059,08059,Colorado - Jefferson County,Jefferson County,70714,1353
+0400000US08,08,Colorado,0500000US08069,08069,Colorado - Larimer County,Larimer County,56575,2946
+0400000US08,08,Colorado,0500000US08077,08077,Colorado - Mesa County,Mesa County,50174,4284
+0400000US08,08,Colorado,0500000US08101,08101,Colorado - Pueblo County,Pueblo County,41047,2628
+0400000US08,08,Colorado,0500000US08123,08123,Colorado - Weld County,Weld County,62083,3119
+0400000US09,09,Connecticut,0400000US09,09,Connecticut,Connecticut,70048,828
+0400000US09,09,Connecticut,0500000US09001,09001,Connecticut - Fairfield County,Fairfield County,85925,2989
+0400000US09,09,Connecticut,0500000US09003,09003,Connecticut - Hartford County,Hartford County,65894,1553
+0400000US09,09,Connecticut,0500000US09005,09005,Connecticut - Litchfield County,Litchfield County,73756,2740
+0400000US09,09,Connecticut,0500000US09007,09007,Connecticut - Middlesex County,Middlesex County,75876,5307
+0400000US09,09,Connecticut,0500000US09009,09009,Connecticut - New Haven County,New Haven County,60391,1619
+0400000US09,09,Connecticut,0500000US09011,09011,Connecticut - New London County,New London County,66148,2453
+0400000US09,09,Connecticut,0500000US09013,09013,Connecticut - Tolland County,Tolland County,78786,3407
+0400000US09,09,Connecticut,0500000US09015,09015,Connecticut - Windham County,Windham County,59195,5865
+0400000US10,10,Delaware,0400000US10,10,Delaware,Delaware,59716,1674
+0400000US10,10,Delaware,0500000US10001,10001,Delaware - Kent County,Kent County,55227,3222
+0400000US10,10,Delaware,0500000US10003,10003,Delaware - New Castle County,New Castle County,64801,2702
+0400000US10,10,Delaware,0500000US10005,10005,Delaware - Sussex County,Sussex County,55011,3560
+0400000US11,11,District of Columbia,0400000US11,11,District of Columbia,District of Columbia,71648,1996
+0400000US11,11,District of Columbia,0500000US11001,11001,District of Columbia - District of Columbia,District of Columbia,71648,1996
+0400000US12,12,Florida,0400000US12,12,Florida,Florida,47463,329
+0400000US12,12,Florida,0500000US12001,12001,Florida - Alachua County,Alachua County,45228,3823
+0400000US12,12,Florida,0500000US12005,12005,Florida - Bay County,Bay County,44775,3732
+0400000US12,12,Florida,0500000US12009,12009,Florida - Brevard County,Brevard County,47907,1770
+0400000US12,12,Florida,0500000US12011,12011,Florida - Broward County,Broward County,51608,1046
+0400000US12,12,Florida,0500000US12015,12015,Florida - Charlotte County,Charlotte County,43039,2406
+0400000US12,12,Florida,0500000US12017,12017,Florida - Citrus County,Citrus County,35671,2376
+0400000US12,12,Florida,0500000US12019,12019,Florida - Clay County,Clay County,58153,4131
+0400000US12,12,Florida,0500000US12021,12021,Florida - Collier County,Collier County,58026,2918
+0400000US12,12,Florida,0500000US12023,12023,Florida - Columbia County,Columbia County,38520,3616
+0400000US12,12,Florida,0500000US12031,12031,Florida - Duval County,Duval County,45779,1395
+0400000US12,12,Florida,0500000US12033,12033,Florida - Escambia County,Escambia County,46655,2021
+0400000US12,12,Florida,0500000US12035,12035,Florida - Flagler County,Flagler County,51622,1681
+0400000US12,12,Florida,0500000US12053,12053,Florida - Hernando County,Hernando County,40255,2661
+0400000US12,12,Florida,0500000US12055,12055,Florida - Highlands County,Highlands County,36120,2619
+0400000US12,12,Florida,0500000US12057,12057,Florida - Hillsborough County,Hillsborough County,50796,896
+0400000US12,12,Florida,0500000US12061,12061,Florida - Indian River County,Indian River County,46238,4403
+0400000US12,12,Florida,0500000US12069,12069,Florida - Lake County,Lake County,47191,2460
+0400000US12,12,Florida,0500000US12071,12071,Florida - Lee County,Lee County,49055,1539
+0400000US12,12,Florida,0500000US12073,12073,Florida - Leon County,Leon County,44824,2663
+0400000US12,12,Florida,0500000US12081,12081,Florida - Manatee County,Manatee County,52031,1753
+0400000US12,12,Florida,0500000US12083,12083,Florida - Marion County,Marion County,39958,1822
+0400000US12,12,Florida,0500000US12085,12085,Florida - Martin County,Martin County,55866,3333
+0400000US12,12,Florida,0500000US12086,12086,Florida - Miami-Dade County,Miami-Dade County,42926,1142
+0400000US12,12,Florida,0500000US12087,12087,Florida - Monroe County,Monroe County,59388,3722
+0400000US12,12,Florida,0500000US12089,12089,Florida - Nassau County,Nassau County,52249,6790
+0400000US12,12,Florida,0500000US12091,12091,Florida - Okaloosa County,Okaloosa County,57640,4563
+0400000US12,12,Florida,0500000US12095,12095,Florida - Orange County,Orange County,47055,1388
+0400000US12,12,Florida,0500000US12097,12097,Florida - Osceola County,Osceola County,42899,2957
+0400000US12,12,Florida,0500000US12099,12099,Florida - Palm Beach County,Palm Beach County,52203,1207
+0400000US12,12,Florida,0500000US12101,12101,Florida - Pasco County,Pasco County,45349,1374
+0400000US12,12,Florida,0500000US12103,12103,Florida - Pinellas County,Pinellas County,45152,1094
+0400000US12,12,Florida,0500000US12105,12105,Florida - Polk County,Polk County,42780,1932
+0400000US12,12,Florida,0500000US12107,12107,Florida - Putnam County,Putnam County,30765,3423
+0400000US12,12,Florida,0500000US12109,12109,Florida - St. Johns County,St. Johns County,65976,2419
+0400000US12,12,Florida,0500000US12111,12111,Florida - St. Lucie County,St. Lucie County,42359,2928
+0400000US12,12,Florida,0500000US12113,12113,Florida - Santa Rosa County,Santa Rosa County,60317,5168
+0400000US12,12,Florida,0500000US12115,12115,Florida - Sarasota County,Sarasota County,52109,1484
+0400000US12,12,Florida,0500000US12117,12117,Florida - Seminole County,Seminole County,56322,2300
+0400000US12,12,Florida,0500000US12119,12119,Florida - Sumter County,Sumter County,50942,4341
+0400000US12,12,Florida,0500000US12127,12127,Florida - Volusia County,Volusia County,40818,1351
+0400000US13,13,Georgia,0400000US13,13,Georgia,Georgia,49321,543
+0400000US13,13,Georgia,0500000US13013,13013,Georgia - Barrow County,Barrow County,47834,3506
+0400000US13,13,Georgia,0500000US13015,13015,Georgia - Bartow County,Bartow County,53675,5380
+0400000US13,13,Georgia,0500000US13021,13021,Georgia - Bibb County,Bibb County,35397,2170
+0400000US13,13,Georgia,0500000US13031,13031,Georgia - Bulloch County,Bulloch County,32841,5906
+0400000US13,13,Georgia,0500000US13045,13045,Georgia - Carroll County,Carroll County,40744,4762
+0400000US13,13,Georgia,0500000US13047,13047,Georgia - Catoosa County,Catoosa County,52412,5790
+0400000US13,13,Georgia,0500000US13051,13051,Georgia - Chatham County,Chatham County,50718,1874
+0400000US13,13,Georgia,0500000US13057,13057,Georgia - Cherokee County,Cherokee County,69711,4741
+0400000US13,13,Georgia,0500000US13059,13059,Georgia - Clarke County,Clarke County,29996,2144
+0400000US13,13,Georgia,0500000US13063,13063,Georgia - Clayton County,Clayton County,43287,1555
+0400000US13,13,Georgia,0500000US13067,13067,Georgia - Cobb County,Cobb County,67043,2084
+0400000US13,13,Georgia,0500000US13073,13073,Georgia - Columbia County,Columbia County,66925,3491
+0400000US13,13,Georgia,0500000US13077,13077,Georgia - Coweta County,Coweta County,59506,4473
+0400000US13,13,Georgia,0500000US13089,13089,Georgia - DeKalb County,DeKalb County,50542,1308
+0400000US13,13,Georgia,0500000US13095,13095,Georgia - Dougherty County,Dougherty County,31755,2312
+0400000US13,13,Georgia,0500000US13097,13097,Georgia - Douglas County,Douglas County,54826,5073
+0400000US13,13,Georgia,0500000US13113,13113,Georgia - Fayette County,Fayette County,77016,5712
+0400000US13,13,Georgia,0500000US13115,13115,Georgia - Floyd County,Floyd County,41752,4013
+0400000US13,13,Georgia,0500000US13117,13117,Georgia - Forsyth County,Forsyth County,85639,2390
+0400000US13,13,Georgia,0500000US13121,13121,Georgia - Fulton County,Fulton County,55807,1746
+0400000US13,13,Georgia,0500000US13127,13127,Georgia - Glynn County,Glynn County,47333,3464
+0400000US13,13,Georgia,0500000US13135,13135,Georgia - Gwinnett County,Gwinnett County,59492,2640
+0400000US13,13,Georgia,0500000US13139,13139,Georgia - Hall County,Hall County,52519,3598
+0400000US13,13,Georgia,0500000US13151,13151,Georgia - Henry County,Henry County,58242,5509
+0400000US13,13,Georgia,0500000US13153,13153,Georgia - Houston County,Houston County,51054,5118
+0400000US13,13,Georgia,0500000US13179,13179,Georgia - Liberty County,Liberty County,41812,2696
+0400000US13,13,Georgia,0500000US13185,13185,Georgia - Lowndes County,Lowndes County,38733,4433
+0400000US13,13,Georgia,0500000US13215,13215,Georgia - Muscogee County,Muscogee County,42176,2929
+0400000US13,13,Georgia,0500000US13217,13217,Georgia - Newton County,Newton County,46790,5051
+0400000US13,13,Georgia,0500000US13223,13223,Georgia - Paulding County,Paulding County,62453,3856
+0400000US13,13,Georgia,0500000US13245,13245,Georgia - Richmond County,Richmond County,35793,2029
+0400000US13,13,Georgia,0500000US13247,13247,Georgia - Rockdale County,Rockdale County,46524,3307
+0400000US13,13,Georgia,0500000US13285,13285,Georgia - Troup County,Troup County,40486,4056
+0400000US13,13,Georgia,0500000US13295,13295,Georgia - Walker County,Walker County,38493,6379
+0400000US13,13,Georgia,0500000US13297,13297,Georgia - Walton County,Walton County,50895,2752
+0400000US13,13,Georgia,0500000US13313,13313,Georgia - Whitfield County,Whitfield County,42069,7975
+0400000US15,15,Hawaii,0400000US15,15,Hawaii,Hawaii,69592,1456
+0400000US15,15,Hawaii,0500000US15001,15001,Hawaii - Hawaii County,Hawaii County,52788,2428
+0400000US15,15,Hawaii,0500000US15003,15003,Hawaii - Honolulu County,Honolulu County,74634,1827
+0400000US15,15,Hawaii,0500000US15007,15007,Hawaii - Kauai County,Kauai County,64847,7803
+0400000US15,15,Hawaii,0500000US15009,15009,Hawaii - Maui County,Maui County,67013,3605
+0400000US16,16,Idaho,0400000US16,16,Idaho,Idaho,47861,1275
+0400000US16,16,Idaho,0500000US16001,16001,Idaho - Ada County,Ada County,57716,2289
+0400000US16,16,Idaho,0500000US16005,16005,Idaho - Bannock County,Bannock County,44018,3235
+0400000US16,16,Idaho,0500000US16019,16019,Idaho - Bonneville County,Bonneville County,49626,4159
+0400000US16,16,Idaho,0500000US16027,16027,Idaho - Canyon County,Canyon County,43250,2369
+0400000US16,16,Idaho,0500000US16055,16055,Idaho - Kootenai County,Kootenai County,48776,3141
+0400000US16,16,Idaho,0500000US16083,16083,Idaho - Twin Falls County,Twin Falls County,43624,4323
+0400000US17,17,Illinois,0400000US17,17,Illinois,Illinois,57444,429
+0400000US17,17,Illinois,0500000US17001,17001,Illinois - Adams County,Adams County,45606,2118
+0400000US17,17,Illinois,0500000US17019,17019,Illinois - Champaign County,Champaign County,46776,3141
+0400000US17,17,Illinois,0500000US17031,17031,Illinois - Cook County,Cook County,55069,652
+0400000US17,17,Illinois,0500000US17037,17037,Illinois - DeKalb County,DeKalb County,56450,3251
+0400000US17,17,Illinois,0500000US17043,17043,Illinois - DuPage County,DuPage County,80015,1715
+0400000US17,17,Illinois,0500000US17089,17089,Illinois - Kane County,Kane County,72541,2858
+0400000US17,17,Illinois,0500000US17091,17091,Illinois - Kankakee County,Kankakee County,58378,3790
+0400000US17,17,Illinois,0500000US17093,17093,Illinois - Kendall County,Kendall County,90072,7860
+0400000US17,17,Illinois,0500000US17097,17097,Illinois - Lake County,Lake County,77772,2728
+0400000US17,17,Illinois,0500000US17099,17099,Illinois - LaSalle County,LaSalle County,50432,4407
+0400000US17,17,Illinois,0500000US17111,17111,Illinois - McHenry County,McHenry County,76628,3169
+0400000US17,17,Illinois,0500000US17113,17113,Illinois - McLean County,McLean County,58061,3985
+0400000US17,17,Illinois,0500000US17115,17115,Illinois - Macon County,Macon County,47574,3416
+0400000US17,17,Illinois,0500000US17119,17119,Illinois - Madison County,Madison County,54438,3107
+0400000US17,17,Illinois,0500000US17143,17143,Illinois - Peoria County,Peoria County,52352,2298
+0400000US17,17,Illinois,0500000US17161,17161,Illinois - Rock Island County,Rock Island County,47751,2522
+0400000US17,17,Illinois,0500000US17163,17163,Illinois - St. Clair County,St. Clair County,50428,3588
+0400000US17,17,Illinois,0500000US17167,17167,Illinois - Sangamon County,Sangamon County,55103,2874
+0400000US17,17,Illinois,0500000US17179,17179,Illinois - Tazewell County,Tazewell County,60801,2835
+0400000US17,17,Illinois,0500000US17183,17183,Illinois - Vermilion County,Vermilion County,41690,3112
+0400000US17,17,Illinois,0500000US17197,17197,Illinois - Will County,Will County,74828,2276
+0400000US17,17,Illinois,0500000US17199,17199,Illinois - Williamson County,Williamson County,49153,6312
+0400000US17,17,Illinois,0500000US17201,17201,Illinois - Winnebago County,Winnebago County,47121,2322
+0400000US18,18,Indiana,0400000US18,18,Indiana,Indiana,49446,487
+0400000US18,18,Indiana,0500000US18003,18003,Indiana - Allen County,Allen County,48521,1631
+0400000US18,18,Indiana,0500000US18005,18005,Indiana - Bartholomew County,Bartholomew County,53002,3777
+0400000US18,18,Indiana,0500000US18019,18019,Indiana - Clark County,Clark County,52674,2827
+0400000US18,18,Indiana,0500000US18035,18035,Indiana - Delaware County,Delaware County,39323,3122
+0400000US18,18,Indiana,0500000US18039,18039,Indiana - Elkhart County,Elkhart County,49937,2239
+0400000US18,18,Indiana,0500000US18043,18043,Indiana - Floyd County,Floyd County,52819,3058
+0400000US18,18,Indiana,0500000US18053,18053,Indiana - Grant County,Grant County,39851,3340
+0400000US18,18,Indiana,0500000US18057,18057,Indiana - Hamilton County,Hamilton County,88155,4009
+0400000US18,18,Indiana,0500000US18059,18059,Indiana - Hancock County,Hancock County,67485,4376
+0400000US18,18,Indiana,0500000US18063,18063,Indiana - Hendricks County,Hendricks County,66989,7401
+0400000US18,18,Indiana,0500000US18067,18067,Indiana - Howard County,Howard County,47159,4890
+0400000US18,18,Indiana,0500000US18081,18081,Indiana - Johnson County,Johnson County,55201,4852
+0400000US18,18,Indiana,0500000US18085,18085,Indiana - Kosciusko County,Kosciusko County,53825,2552
+0400000US18,18,Indiana,0500000US18089,18089,Indiana - Lake County,Lake County,50852,1399
+0400000US18,18,Indiana,0500000US18091,18091,Indiana - LaPorte County,LaPorte County,45744,2877
+0400000US18,18,Indiana,0500000US18095,18095,Indiana - Madison County,Madison County,45134,2401
+0400000US18,18,Indiana,0500000US18097,18097,Indiana - Marion County,Marion County,42557,962
+0400000US18,18,Indiana,0500000US18105,18105,Indiana - Monroe County,Monroe County,43657,2993
+0400000US18,18,Indiana,0500000US18109,18109,Indiana - Morgan County,Morgan County,52891,4986
+0400000US18,18,Indiana,0500000US18127,18127,Indiana - Porter County,Porter County,60903,4054
+0400000US18,18,Indiana,0500000US18141,18141,Indiana - St. Joseph County,St. Joseph County,46254,2194
+0400000US18,18,Indiana,0500000US18157,18157,Indiana - Tippecanoe County,Tippecanoe County,45771,2419
+0400000US18,18,Indiana,0500000US18163,18163,Indiana - Vanderburgh County,Vanderburgh County,42044,1926
+0400000US18,18,Indiana,0500000US18167,18167,Indiana - Vigo County,Vigo County,41385,2275
+0400000US18,18,Indiana,0500000US18177,18177,Indiana - Wayne County,Wayne County,41204,2134
+0400000US19,19,Iowa,0400000US19,19,Iowa,Iowa,53712,761
+0400000US19,19,Iowa,0500000US19013,19013,Iowa - Black Hawk County,Black Hawk County,51685,2794
+0400000US19,19,Iowa,0500000US19049,19049,Iowa - Dallas County,Dallas County,77412,6881
+0400000US19,19,Iowa,0500000US19061,19061,Iowa - Dubuque County,Dubuque County,56129,4478
+0400000US19,19,Iowa,0500000US19103,19103,Iowa - Johnson County,Johnson County,60254,4974
+0400000US19,19,Iowa,0500000US19113,19113,Iowa - Linn County,Linn County,62984,2904
+0400000US19,19,Iowa,0500000US19153,19153,Iowa - Polk County,Polk County,60978,1725
+0400000US19,19,Iowa,0500000US19155,19155,Iowa - Pottawattamie County,Pottawattamie County,52239,5936
+0400000US19,19,Iowa,0500000US19163,19163,Iowa - Scott County,Scott County,54679,2218
+0400000US19,19,Iowa,0500000US19169,19169,Iowa - Story County,Story County,46091,5589
+0400000US19,19,Iowa,0500000US19193,19193,Iowa - Woodbury County,Woodbury County,44721,3130
+0400000US20,20,Kansas,0400000US20,20,Kansas,Kansas,52504,706
+0400000US20,20,Kansas,0500000US20015,20015,Kansas - Butler County,Butler County,58791,5736
+0400000US20,20,Kansas,0500000US20045,20045,Kansas - Douglas County,Douglas County,48565,3490
+0400000US20,20,Kansas,0500000US20091,20091,Kansas - Johnson County,Johnson County,75679,2063
+0400000US20,20,Kansas,0500000US20103,20103,Kansas - Leavenworth County,Leavenworth County,66779,5124
+0400000US20,20,Kansas,0500000US20161,20161,Kansas - Riley County,Riley County,44825,4984
+0400000US20,20,Kansas,0500000US20173,20173,Kansas - Sedgwick County,Sedgwick County,50996,1624
+0400000US20,20,Kansas,0500000US20177,20177,Kansas - Shawnee County,Shawnee County,53507,3475
+0400000US20,20,Kansas,0500000US20209,20209,Kansas - Wyandotte County,Wyandotte County,36637,1566
+0400000US21,21,Kentucky,0400000US21,21,Kentucky,Kentucky,42958,697
+0400000US21,21,Kentucky,0500000US21015,21015,Kentucky - Boone County,Boone County,65736,5494
+0400000US21,21,Kentucky,0500000US21029,21029,Kentucky - Bullitt County,Bullitt County,54690,3854
+0400000US21,21,Kentucky,0500000US21037,21037,Kentucky - Campbell County,Campbell County,50872,4360
+0400000US21,21,Kentucky,0500000US21047,21047,Kentucky - Christian County,Christian County,35755,2516
+0400000US21,21,Kentucky,0500000US21059,21059,Kentucky - Daviess County,Daviess County,41685,3098
+0400000US21,21,Kentucky,0500000US21067,21067,Kentucky - Fayette County,Fayette County,47968,2795
+0400000US21,21,Kentucky,0500000US21093,21093,Kentucky - Hardin County,Hardin County,50900,4508
+0400000US21,21,Kentucky,0500000US21111,21111,Kentucky - Jefferson County,Jefferson County,48210,1513
+0400000US21,21,Kentucky,0500000US21117,21117,Kentucky - Kenton County,Kenton County,54300,4612
+0400000US21,21,Kentucky,0500000US21145,21145,Kentucky - McCracken County,McCracken County,36712,5152
+0400000US21,21,Kentucky,0500000US21151,21151,Kentucky - Madison County,Madison County,43973,7137
+0400000US21,21,Kentucky,0500000US21195,21195,Kentucky - Pike County,Pike County,31426,2624
+0400000US21,21,Kentucky,0500000US21227,21227,Kentucky - Warren County,Warren County,50752,3856
+0400000US22,22,Louisiana,0400000US22,22,Louisiana,Louisiana,44555,738
+0400000US22,22,Louisiana,0500000US22005,22005,Louisiana - Ascension Parish,Ascension Parish,66576,5876
+0400000US22,22,Louisiana,0500000US22015,22015,Louisiana - Bossier Parish,Bossier Parish,50704,2963
+0400000US22,22,Louisiana,0500000US22017,22017,Louisiana - Caddo Parish,Caddo Parish,39315,3666
+0400000US22,22,Louisiana,0500000US22019,22019,Louisiana - Calcasieu Parish,Calcasieu Parish,45742,2976
+0400000US22,22,Louisiana,0500000US22033,22033,Louisiana - East Baton Rouge Parish,East Baton Rouge Parish,46778,2572
+0400000US22,22,Louisiana,0500000US22045,22045,Louisiana - Iberia Parish,Iberia Parish,46290,3571
+0400000US22,22,Louisiana,0500000US22051,22051,Louisiana - Jefferson Parish,Jefferson Parish,46961,1876
+0400000US22,22,Louisiana,0500000US22055,22055,Louisiana - Lafayette Parish,Lafayette Parish,51060,1900
+0400000US22,22,Louisiana,0500000US22057,22057,Louisiana - Lafourche Parish,Lafourche Parish,41842,4383
+0400000US22,22,Louisiana,0500000US22063,22063,Louisiana - Livingston Parish,Livingston Parish,60466,4886
+0400000US22,22,Louisiana,0500000US22071,22071,Louisiana - Orleans Parish,Orleans Parish,35504,1644
+0400000US22,22,Louisiana,0500000US22073,22073,Louisiana - Ouachita Parish,Ouachita Parish,41139,2573
+0400000US22,22,Louisiana,0500000US22079,22079,Louisiana - Rapides Parish,Rapides Parish,40434,3408
+0400000US22,22,Louisiana,0500000US22097,22097,Louisiana - St. Landry Parish,St. Landry Parish,27753,4460
+0400000US22,22,Louisiana,0500000US22103,22103,Louisiana - St. Tammany Parish,St. Tammany Parish,63210,3918
+0400000US22,22,Louisiana,0500000US22105,22105,Louisiana - Tangipahoa Parish,Tangipahoa Parish,40689,4431
+0400000US22,22,Louisiana,0500000US22109,22109,Louisiana - Terrebonne Parish,Terrebonne Parish,46678,5194
+0400000US23,23,Maine,0400000US23,23,Maine,Maine,49462,1112
+0400000US23,23,Maine,0500000US23001,23001,Maine - Androscoggin County,Androscoggin County,48007,3884
+0400000US23,23,Maine,0500000US23003,23003,Maine - Aroostook County,Aroostook County,35439,2070
+0400000US23,23,Maine,0500000US23005,23005,Maine - Cumberland County,Cumberland County,61992,2436
+0400000US23,23,Maine,0500000US23011,23011,Maine - Kennebec County,Kennebec County,44633,4575
+0400000US23,23,Maine,0500000US23019,23019,Maine - Penobscot County,Penobscot County,42242,2830
+0400000US23,23,Maine,0500000US23031,23031,Maine - York County,York County,55509,2930
+0400000US24,24,Maryland,0400000US24,24,Maryland,Maryland,73971,867
+0400000US24,24,Maryland,0500000US24001,24001,Maryland - Allegany County,Allegany County,39653,2797
+0400000US24,24,Maryland,0500000US24003,24003,Maryland - Anne Arundel County,Anne Arundel County,87217,2986
+0400000US24,24,Maryland,0500000US24005,24005,Maryland - Baltimore County,Baltimore County,68257,2555
+0400000US24,24,Maryland,0500000US24009,24009,Maryland - Calvert County,Calvert County,95110,8601
+0400000US24,24,Maryland,0500000US24013,24013,Maryland - Carroll County,Carroll County,85274,3579
+0400000US24,24,Maryland,0500000US24015,24015,Maryland - Cecil County,Cecil County,61940,3589
+0400000US24,24,Maryland,0500000US24017,24017,Maryland - Charles County,Charles County,88803,5522
+0400000US24,24,Maryland,0500000US24021,24021,Maryland - Frederick County,Frederick County,84203,3275
+0400000US24,24,Maryland,0500000US24025,24025,Maryland - Harford County,Harford County,79649,2687
+0400000US24,24,Maryland,0500000US24027,24027,Maryland - Howard County,Howard County,107490,6436
+0400000US24,24,Maryland,0500000US24031,24031,Maryland - Montgomery County,Montgomery County,97765,2512
+0400000US24,24,Maryland,0500000US24033,24033,Maryland - Prince George's County,Prince George's County,72290,1676
+0400000US24,24,Maryland,0500000US24037,24037,Maryland - St. Mary's County,St. Mary's County,86417,4765
+0400000US24,24,Maryland,0500000US24043,24043,Maryland - Washington County,Washington County,55471,3587
+0400000US24,24,Maryland,0500000US24045,24045,Maryland - Wicomico County,Wicomico County,53432,2868
+0400000US24,24,Maryland,0500000US24510,24510,Maryland - Baltimore city,Baltimore city,42665,2198
+0400000US25,25,Massachusetts,0400000US25,25,Massachusetts,Massachusetts,69160,957
+0400000US25,25,Massachusetts,0500000US25001,25001,Massachusetts - Barnstable County,Barnstable County,65384,3611
+0400000US25,25,Massachusetts,0500000US25003,25003,Massachusetts - Berkshire County,Berkshire County,50211,3586
+0400000US25,25,Massachusetts,0500000US25005,25005,Massachusetts - Bristol County,Bristol County,58057,2313
+0400000US25,25,Massachusetts,0500000US25009,25009,Massachusetts - Essex County,Essex County,70366,1722
+0400000US25,25,Massachusetts,0500000US25011,25011,Massachusetts - Franklin County,Franklin County,55572,4936
+0400000US25,25,Massachusetts,0500000US25013,25013,Massachusetts - Hampden County,Hampden County,49211,2276
+0400000US25,25,Massachusetts,0500000US25015,25015,Massachusetts - Hampshire County,Hampshire County,56079,4808
+0400000US25,25,Massachusetts,0500000US25017,25017,Massachusetts - Middlesex County,Middlesex County,84464,2575
+0400000US25,25,Massachusetts,0500000US25021,25021,Massachusetts - Norfolk County,Norfolk County,90506,2643
+0400000US25,25,Massachusetts,0500000US25023,25023,Massachusetts - Plymouth County,Plymouth County,74936,2459
+0400000US25,25,Massachusetts,0500000US25025,25025,Massachusetts - Suffolk County,Suffolk County,54585,1927
+0400000US25,25,Massachusetts,0500000US25027,25027,Massachusetts - Worcester County,Worcester County,65407,1683
+0400000US26,26,Michigan,0400000US26,26,Michigan,Michigan,49847,385
+0400000US26,26,Michigan,0500000US26005,26005,Michigan - Allegan County,Allegan County,53796,4285
+0400000US26,26,Michigan,0500000US26017,26017,Michigan - Bay County,Bay County,46844,3219
+0400000US26,26,Michigan,0500000US26021,26021,Michigan - Berrien County,Berrien County,44031,2353
+0400000US26,26,Michigan,0500000US26025,26025,Michigan - Calhoun County,Calhoun County,46088,2381
+0400000US26,26,Michigan,0500000US26037,26037,Michigan - Clinton County,Clinton County,58453,4322
+0400000US26,26,Michigan,0500000US26045,26045,Michigan - Eaton County,Eaton County,57087,2357
+0400000US26,26,Michigan,0500000US26049,26049,Michigan - Genesee County,Genesee County,41682,1194
+0400000US26,26,Michigan,0500000US26055,26055,Michigan - Grand Traverse County,Grand Traverse County,57312,4453
+0400000US26,26,Michigan,0500000US26065,26065,Michigan - Ingham County,Ingham County,45616,1729
+0400000US26,26,Michigan,0500000US26073,26073,Michigan - Isabella County,Isabella County,41931,3494
+0400000US26,26,Michigan,0500000US26075,26075,Michigan - Jackson County,Jackson County,45371,4125
+0400000US26,26,Michigan,0500000US26077,26077,Michigan - Kalamazoo County,Kalamazoo County,45148,2553
+0400000US26,26,Michigan,0500000US26081,26081,Michigan - Kent County,Kent County,53304,1394
+0400000US26,26,Michigan,0500000US26087,26087,Michigan - Lapeer County,Lapeer County,50860,2190
+0400000US26,26,Michigan,0500000US26091,26091,Michigan - Lenawee County,Lenawee County,46739,3911
+0400000US26,26,Michigan,0500000US26093,26093,Michigan - Livingston County,Livingston County,73819,2533
+0400000US26,26,Michigan,0500000US26099,26099,Michigan - Macomb County,Macomb County,54792,1437
+0400000US26,26,Michigan,0500000US26103,26103,Michigan - Marquette County,Marquette County,44267,2902
+0400000US26,26,Michigan,0500000US26111,26111,Michigan - Midland County,Midland County,49194,3443
+0400000US26,26,Michigan,0500000US26115,26115,Michigan - Monroe County,Monroe County,57275,2927
+0400000US26,26,Michigan,0500000US26121,26121,Michigan - Muskegon County,Muskegon County,42600,1721
+0400000US26,26,Michigan,0500000US26125,26125,Michigan - Oakland County,Oakland County,69293,1526
+0400000US26,26,Michigan,0500000US26139,26139,Michigan - Ottawa County,Ottawa County,60343,1922
+0400000US26,26,Michigan,0500000US26145,26145,Michigan - Saginaw County,Saginaw County,44931,1810
+0400000US26,26,Michigan,0500000US26147,26147,Michigan - St. Clair County,St. Clair County,50319,2152
+0400000US26,26,Michigan,0500000US26155,26155,Michigan - Shiawassee County,Shiawassee County,48523,4024
+0400000US26,26,Michigan,0500000US26159,26159,Michigan - Van Buren County,Van Buren County,47435,4267
+0400000US26,26,Michigan,0500000US26161,26161,Michigan - Washtenaw County,Washtenaw County,62845,2167
+0400000US26,26,Michigan,0500000US26163,26163,Michigan - Wayne County,Wayne County,41435,672
+0400000US27,27,Minnesota,0400000US27,27,Minnesota,Minnesota,61481,471
+0400000US27,27,Minnesota,0500000US27003,27003,Minnesota - Anoka County,Anoka County,70915,2072
+0400000US27,27,Minnesota,0500000US27013,27013,Minnesota - Blue Earth County,Blue Earth County,48850,4541
+0400000US27,27,Minnesota,0500000US27019,27019,Minnesota - Carver County,Carver County,83594,7343
+0400000US27,27,Minnesota,0500000US27037,27037,Minnesota - Dakota County,Dakota County,76213,1680
+0400000US27,27,Minnesota,0500000US27053,27053,Minnesota - Hennepin County,Hennepin County,64433,1640
+0400000US27,27,Minnesota,0500000US27109,27109,Minnesota - Olmsted County,Olmsted County,69731,5612
+0400000US27,27,Minnesota,0500000US27123,27123,Minnesota - Ramsey County,Ramsey County,55101,1741
+0400000US27,27,Minnesota,0500000US27131,27131,Minnesota - Rice County,Rice County,60527,3644
+0400000US27,27,Minnesota,0500000US27137,27137,Minnesota - St. Louis County,St. Louis County,50040,2418
+0400000US27,27,Minnesota,0500000US27139,27139,Minnesota - Scott County,Scott County,92107,7248
+0400000US27,27,Minnesota,0500000US27141,27141,Minnesota - Sherburne County,Sherburne County,77532,7754
+0400000US27,27,Minnesota,0500000US27145,27145,Minnesota - Stearns County,Stearns County,56040,2455
+0400000US27,27,Minnesota,0500000US27163,27163,Minnesota - Washington County,Washington County,83545,4054
+0400000US27,27,Minnesota,0500000US27171,27171,Minnesota - Wright County,Wright County,77442,4841
+0400000US28,28,Mississippi,0400000US28,28,Mississippi,Mississippi,39680,773
+0400000US28,28,Mississippi,0500000US28033,28033,Mississippi - DeSoto County,DeSoto County,58073,3184
+0400000US28,28,Mississippi,0500000US28035,28035,Mississippi - Forrest County,Forrest County,38904,3773
+0400000US28,28,Mississippi,0500000US28047,28047,Mississippi - Harrison County,Harrison County,40846,2149
+0400000US28,28,Mississippi,0500000US28049,28049,Mississippi - Hinds County,Hinds County,38543,2099
+0400000US28,28,Mississippi,0500000US28059,28059,Mississippi - Jackson County,Jackson County,47822,3437
+0400000US28,28,Mississippi,0500000US28067,28067,Mississippi - Jones County,Jones County,36374,6692
+0400000US28,28,Mississippi,0500000US28075,28075,Mississippi - Lauderdale County,Lauderdale County,40333,7910
+0400000US28,28,Mississippi,0500000US28081,28081,Mississippi - Lee County,Lee County,43204,3044
+0400000US28,28,Mississippi,0500000US28089,28089,Mississippi - Madison County,Madison County,67746,6625
+0400000US28,28,Mississippi,0500000US28121,28121,Mississippi - Rankin County,Rankin County,58755,4515
+0400000US29,29,Missouri,0400000US29,29,Missouri,Missouri,48363,567
+0400000US29,29,Missouri,0500000US29019,29019,Missouri - Boone County,Boone County,50085,3082
+0400000US29,29,Missouri,0500000US29021,29021,Missouri - Buchanan County,Buchanan County,46764,4247
+0400000US29,29,Missouri,0500000US29031,29031,Missouri - Cape Girardeau County,Cape Girardeau County,47438,4349
+0400000US29,29,Missouri,0500000US29037,29037,Missouri - Cass County,Cass County,60849,2092
+0400000US29,29,Missouri,0500000US29043,29043,Missouri - Christian County,Christian County,51692,2366
+0400000US29,29,Missouri,0500000US29047,29047,Missouri - Clay County,Clay County,61384,2851
+0400000US29,29,Missouri,0500000US29051,29051,Missouri - Cole County,Cole County,51210,2516
+0400000US29,29,Missouri,0500000US29071,29071,Missouri - Franklin County,Franklin County,51682,3381
+0400000US29,29,Missouri,0500000US29077,29077,Missouri - Greene County,Greene County,39611,2305
+0400000US29,29,Missouri,0500000US29095,29095,Missouri - Jackson County,Jackson County,45874,1886
+0400000US29,29,Missouri,0500000US29097,29097,Missouri - Jasper County,Jasper County,39886,4050
+0400000US29,29,Missouri,0500000US29099,29099,Missouri - Jefferson County,Jefferson County,59327,2910
+0400000US29,29,Missouri,0500000US29165,29165,Missouri - Platte County,Platte County,69787,4392
+0400000US29,29,Missouri,0500000US29183,29183,Missouri - St. Charles County,St. Charles County,73989,3076
+0400000US29,29,Missouri,0500000US29187,29187,Missouri - St. Francois County,St. Francois County,41713,4201
+0400000US29,29,Missouri,0500000US29189,29189,Missouri - St. Louis County,St. Louis County,59993,1715
+0400000US29,29,Missouri,0500000US29510,29510,Missouri - St. Louis city,St. Louis city,35959,1796
+0400000US30,30,Montana,0400000US30,30,Montana,Montana,46328,1217
+0400000US30,30,Montana,0500000US30013,30013,Montana - Cascade County,Cascade County,42170,3538
+0400000US30,30,Montana,0500000US30029,30029,Montana - Flathead County,Flathead County,47362,3672
+0400000US30,30,Montana,0500000US30031,30031,Montana - Gallatin County,Gallatin County,50238,3828
+0400000US30,30,Montana,0500000US30049,30049,Montana - Lewis and Clark County,Lewis and Clark County,53435,3337
+0400000US30,30,Montana,0500000US30063,30063,Montana - Missoula County,Missoula County,44289,4997
+0400000US30,30,Montana,0500000US30111,30111,Montana - Yellowstone County,Yellowstone County,51508,2569
+0400000US31,31,Nebraska,0400000US31,31,Nebraska,Nebraska,52686,688
+0400000US31,31,Nebraska,0500000US31055,31055,Nebraska - Douglas County,Douglas County,52505,1649
+0400000US31,31,Nebraska,0500000US31109,31109,Nebraska - Lancaster County,Lancaster County,51766,1427
+0400000US31,31,Nebraska,0500000US31153,31153,Nebraska - Sarpy County,Sarpy County,73775,3652
+0400000US32,32,Nevada,0400000US32,32,Nevada,Nevada,51450,683
+0400000US32,32,Nevada,0500000US32003,32003,Nevada - Clark County,Clark County,51214,745
+0400000US32,32,Nevada,0500000US32031,32031,Nevada - Washoe County,Washoe County,52618,1812
+0400000US33,33,New Hampshire,0400000US33,33,New Hampshire,New Hampshire,66532,1297
+0400000US33,33,New Hampshire,0500000US33005,33005,New Hampshire - Cheshire County,Cheshire County,56652,4699
+0400000US33,33,New Hampshire,0500000US33009,33009,New Hampshire - Grafton County,Grafton County,57210,6238
+0400000US33,33,New Hampshire,0500000US33011,33011,New Hampshire - Hillsborough County,Hillsborough County,71422,1770
+0400000US33,33,New Hampshire,0500000US33013,33013,New Hampshire - Merrimack County,Merrimack County,62418,3030
+0400000US33,33,New Hampshire,0500000US33015,33015,New Hampshire - Rockingham County,Rockingham County,79922,3014
+0400000US33,33,New Hampshire,0500000US33017,33017,New Hampshire - Strafford County,Strafford County,58976,5296
+0400000US34,34,New Jersey,0400000US34,34,New Jersey,New Jersey,71919,438
+0400000US34,34,New Jersey,0500000US34001,34001,New Jersey - Atlantic County,Atlantic County,55313,3112
+0400000US34,34,New Jersey,0500000US34003,34003,New Jersey - Bergen County,Bergen County,84677,3148
+0400000US34,34,New Jersey,0500000US34005,34005,New Jersey - Burlington County,Burlington County,80896,2035
+0400000US34,34,New Jersey,0500000US34007,34007,New Jersey - Camden County,Camden County,62330,2612
+0400000US34,34,New Jersey,0500000US34009,34009,New Jersey - Cape May County,Cape May County,56899,4079
+0400000US34,34,New Jersey,0500000US34011,34011,New Jersey - Cumberland County,Cumberland County,45339,2682
+0400000US34,34,New Jersey,0500000US34013,34013,New Jersey - Essex County,Essex County,54754,1899
+0400000US34,34,New Jersey,0500000US34015,34015,New Jersey - Gloucester County,Gloucester County,79704,2504
+0400000US34,34,New Jersey,0500000US34017,34017,New Jersey - Hudson County,Hudson County,58479,2567
+0400000US34,34,New Jersey,0500000US34019,34019,New Jersey - Hunterdon County,Hunterdon County,103605,5738
+0400000US34,34,New Jersey,0500000US34021,34021,New Jersey - Mercer County,Mercer County,74961,3786
+0400000US34,34,New Jersey,0500000US34023,34023,New Jersey - Middlesex County,Middlesex County,77682,2806
+0400000US34,34,New Jersey,0500000US34025,34025,New Jersey - Monmouth County,Monmouth County,88413,4469
+0400000US34,34,New Jersey,0500000US34027,34027,New Jersey - Morris County,Morris County,100579,2151
+0400000US34,34,New Jersey,0500000US34029,34029,New Jersey - Ocean County,Ocean County,63653,2772
+0400000US34,34,New Jersey,0500000US34031,34031,New Jersey - Passaic County,Passaic County,58804,2722
+0400000US34,34,New Jersey,0500000US34033,34033,New Jersey - Salem County,Salem County,57377,8142
+0400000US34,34,New Jersey,0500000US34035,34035,New Jersey - Somerset County,Somerset County,100301,3156
+0400000US34,34,New Jersey,0500000US34037,34037,New Jersey - Sussex County,Sussex County,82075,4925
+0400000US34,34,New Jersey,0500000US34039,34039,New Jersey - Union County,Union County,69032,3571
+0400000US34,34,New Jersey,0500000US34041,34041,New Jersey - Warren County,Warren County,71444,3365
+0400000US35,35,New Mexico,0400000US35,35,New Mexico,New Mexico,44803,849
+0400000US35,35,New Mexico,0500000US35001,35001,New Mexico - Bernalillo County,Bernalillo County,47134,1491
+0400000US35,35,New Mexico,0500000US35005,35005,New Mexico - Chaves County,Chaves County,39696,4771
+0400000US35,35,New Mexico,0500000US35013,35013,New Mexico - Doña Ana County,Doña Ana County,39502,2991
+0400000US35,35,New Mexico,0500000US35025,35025,New Mexico - Lea County,Lea County,61351,3591
+0400000US35,35,New Mexico,0500000US35031,35031,New Mexico - McKinley County,McKinley County,27041,4995
+0400000US35,35,New Mexico,0500000US35035,35035,New Mexico - Otero County,Otero County,42603,2671
+0400000US35,35,New Mexico,0500000US35043,35043,New Mexico - Sandoval County,Sandoval County,55398,4489
+0400000US35,35,New Mexico,0500000US35045,35045,New Mexico - San Juan County,San Juan County,48773,5116
+0400000US35,35,New Mexico,0500000US35049,35049,New Mexico - Santa Fe County,Santa Fe County,52809,4386
+0400000US35,35,New Mexico,0500000US35061,35061,New Mexico - Valencia County,Valencia County,37628,5810
+0400000US36,36,New York,0400000US36,36,New York,New York,58878,393
+0400000US36,36,New York,0500000US36001,36001,New York - Albany County,Albany County,60655,2074
+0400000US36,36,New York,0500000US36005,36005,New York - Bronx County,Bronx County,33712,1709
+0400000US36,36,New York,0500000US36007,36007,New York - Broome County,Broome County,46776,2902
+0400000US36,36,New York,0500000US36009,36009,New York - Cattaraugus County,Cattaraugus County,44320,3350
+0400000US36,36,New York,0500000US36011,36011,New York - Cayuga County,Cayuga County,53780,2675
+0400000US36,36,New York,0500000US36013,36013,New York - Chautauqua County,Chautauqua County,41808,1825
+0400000US36,36,New York,0500000US36015,36015,New York - Chemung County,Chemung County,50232,3882
+0400000US36,36,New York,0500000US36019,36019,New York - Clinton County,Clinton County,53575,4245
+0400000US36,36,New York,0500000US36027,36027,New York - Dutchess County,Dutchess County,71165,2168
+0400000US36,36,New York,0500000US36029,36029,New York - Erie County,Erie County,50132,1084
+0400000US36,36,New York,0500000US36045,36045,New York - Jefferson County,Jefferson County,51086,3265
+0400000US36,36,New York,0500000US36047,36047,New York - Kings County,Kings County,47966,1220
+0400000US36,36,New York,0500000US36051,36051,New York - Livingston County,Livingston County,48456,3828
+0400000US36,36,New York,0500000US36053,36053,New York - Madison County,Madison County,51873,3738
+0400000US36,36,New York,0500000US36055,36055,New York - Monroe County,Monroe County,51217,1252
+0400000US36,36,New York,0500000US36059,36059,New York - Nassau County,Nassau County,99035,2477
+0400000US36,36,New York,0500000US36061,36061,New York - New York County,New York County,76089,2016
+0400000US36,36,New York,0500000US36063,36063,New York - Niagara County,Niagara County,49700,3044
+0400000US36,36,New York,0500000US36065,36065,New York - Oneida County,Oneida County,48803,2164
+0400000US36,36,New York,0500000US36067,36067,New York - Onondaga County,Onondaga County,52947,1790
+0400000US36,36,New York,0500000US36069,36069,New York - Ontario County,Ontario County,59093,4920
+0400000US36,36,New York,0500000US36071,36071,New York - Orange County,Orange County,70240,3293
+0400000US36,36,New York,0500000US36075,36075,New York - Oswego County,Oswego County,47013,4100
+0400000US36,36,New York,0500000US36079,36079,New York - Putnam County,Putnam County,97483,8664
+0400000US36,36,New York,0500000US36081,36081,New York - Queens County,Queens County,57241,1195
+0400000US36,36,New York,0500000US36083,36083,New York - Rensselaer County,Rensselaer County,61457,4129
+0400000US36,36,New York,0500000US36085,36085,New York - Richmond County,Richmond County,71121,3055
+0400000US36,36,New York,0500000US36087,36087,New York - Rockland County,Rockland County,85037,4694
+0400000US36,36,New York,0500000US36089,36089,New York - St. Lawrence County,St. Lawrence County,43758,3078
+0400000US36,36,New York,0500000US36091,36091,New York - Saratoga County,Saratoga County,72354,3856
+0400000US36,36,New York,0500000US36093,36093,New York - Schenectady County,Schenectady County,57587,4390
+0400000US36,36,New York,0500000US36101,36101,New York - Steuben County,Steuben County,46889,2165
+0400000US36,36,New York,0500000US36103,36103,New York - Suffolk County,Suffolk County,86266,1775
+0400000US36,36,New York,0500000US36105,36105,New York - Sullivan County,Sullivan County,53219,7066
+0400000US36,36,New York,0500000US36109,36109,New York - Tompkins County,Tompkins County,52885,6027
+0400000US36,36,New York,0500000US36111,36111,New York - Ulster County,Ulster County,58093,4824
+0400000US36,36,New York,0500000US36113,36113,New York - Warren County,Warren County,57294,4794
+0400000US36,36,New York,0500000US36117,36117,New York - Wayne County,Wayne County,45951,4566
+0400000US36,36,New York,0500000US36119,36119,New York - Westchester County,Westchester County,83477,2590
+0400000US37,37,North Carolina,0400000US37,37,North Carolina,North Carolina,46556,381
+0400000US37,37,North Carolina,0500000US37001,37001,North Carolina - Alamance County,Alamance County,39576,2701
+0400000US37,37,North Carolina,0500000US37019,37019,North Carolina - Brunswick County,Brunswick County,46721,3161
+0400000US37,37,North Carolina,0500000US37021,37021,North Carolina - Buncombe County,Buncombe County,47671,2147
+0400000US37,37,North Carolina,0500000US37023,37023,North Carolina - Burke County,Burke County,37086,4504
+0400000US37,37,North Carolina,0500000US37025,37025,North Carolina - Cabarrus County,Cabarrus County,54347,3305
+0400000US37,37,North Carolina,0500000US37027,37027,North Carolina - Caldwell County,Caldwell County,37876,3773
+0400000US37,37,North Carolina,0500000US37031,37031,North Carolina - Carteret County,Carteret County,48881,3377
+0400000US37,37,North Carolina,0500000US37035,37035,North Carolina - Catawba County,Catawba County,44677,2760
+0400000US37,37,North Carolina,0500000US37037,37037,North Carolina - Chatham County,Chatham County,54229,5527
+0400000US37,37,North Carolina,0500000US37045,37045,North Carolina - Cleveland County,Cleveland County,37433,4953
+0400000US37,37,North Carolina,0500000US37049,37049,North Carolina - Craven County,Craven County,43380,2773
+0400000US37,37,North Carolina,0500000US37051,37051,North Carolina - Cumberland County,Cumberland County,42248,1350
+0400000US37,37,North Carolina,0500000US37057,37057,North Carolina - Davidson County,Davidson County,42201,3089
+0400000US37,37,North Carolina,0500000US37063,37063,North Carolina - Durham County,Durham County,50504,1763
+0400000US37,37,North Carolina,0500000US37067,37067,North Carolina - Forsyth County,Forsyth County,45220,2329
+0400000US37,37,North Carolina,0500000US37071,37071,North Carolina - Gaston County,Gaston County,41011,2380
+0400000US37,37,North Carolina,0500000US37081,37081,North Carolina - Guilford County,Guilford County,44069,2014
+0400000US37,37,North Carolina,0500000US37085,37085,North Carolina - Harnett County,Harnett County,44880,4136
+0400000US37,37,North Carolina,0500000US37089,37089,North Carolina - Henderson County,Henderson County,47335,4163
+0400000US37,37,North Carolina,0500000US37097,37097,North Carolina - Iredell County,Iredell County,54384,3056
+0400000US37,37,North Carolina,0500000US37101,37101,North Carolina - Johnston County,Johnston County,48851,3197
+0400000US37,37,North Carolina,0500000US37109,37109,North Carolina - Lincoln County,Lincoln County,48131,3531
+0400000US37,37,North Carolina,0500000US37119,37119,North Carolina - Mecklenburg County,Mecklenburg County,58841,2090
+0400000US37,37,North Carolina,0500000US37125,37125,North Carolina - Moore County,Moore County,51328,5105
+0400000US37,37,North Carolina,0500000US37127,37127,North Carolina - Nash County,Nash County,43209,3533
+0400000US37,37,North Carolina,0500000US37129,37129,North Carolina - New Hanover County,New Hanover County,49982,3451
+0400000US37,37,North Carolina,0500000US37133,37133,North Carolina - Onslow County,Onslow County,47581,3471
+0400000US37,37,North Carolina,0500000US37135,37135,North Carolina - Orange County,Orange County,59658,5795
+0400000US37,37,North Carolina,0500000US37147,37147,North Carolina - Pitt County,Pitt County,41632,2000
+0400000US37,37,North Carolina,0500000US37151,37151,North Carolina - Randolph County,Randolph County,41107,2583
+0400000US37,37,North Carolina,0500000US37155,37155,North Carolina - Robeson County,Robeson County,29889,1570
+0400000US37,37,North Carolina,0500000US37157,37157,North Carolina - Rockingham County,Rockingham County,38878,3550
+0400000US37,37,North Carolina,0500000US37159,37159,North Carolina - Rowan County,Rowan County,45978,3304
+0400000US37,37,North Carolina,0500000US37161,37161,North Carolina - Rutherford County,Rutherford County,34347,3736
+0400000US37,37,North Carolina,0500000US37171,37171,North Carolina - Surry County,Surry County,36511,4089
+0400000US37,37,North Carolina,0500000US37179,37179,North Carolina - Union County,Union County,62898,4050
+0400000US37,37,North Carolina,0500000US37183,37183,North Carolina - Wake County,Wake County,66634,1925
+0400000US37,37,North Carolina,0500000US37191,37191,North Carolina - Wayne County,Wayne County,35966,1880
+0400000US37,37,North Carolina,0500000US37193,37193,North Carolina - Wilkes County,Wilkes County,30743,2321
+0400000US37,37,North Carolina,0500000US37195,37195,North Carolina - Wilson County,Wilson County,38774,2911
+0400000US38,38,North Dakota,0400000US38,38,North Dakota,North Dakota,59029,1681
+0400000US38,38,North Dakota,0500000US38015,38015,North Dakota - Burleigh County,Burleigh County,68339,6526
+0400000US38,38,North Dakota,0500000US38017,38017,North Dakota - Cass County,Cass County,52604,2951
+0400000US38,38,North Dakota,0500000US38035,38035,North Dakota - Grand Forks County,Grand Forks County,49532,4465
+0400000US38,38,North Dakota,0500000US38101,38101,North Dakota - Ward County,Ward County,66570,5985
+0400000US39,39,Ohio,0400000US39,39,Ohio,Ohio,49308,363
+0400000US39,39,Ohio,0500000US39003,39003,Ohio - Allen County,Allen County,42701,3862
+0400000US39,39,Ohio,0500000US39007,39007,Ohio - Ashtabula County,Ashtabula County,39079,2530
+0400000US39,39,Ohio,0500000US39013,39013,Ohio - Belmont County,Belmont County,42079,3573
+0400000US39,39,Ohio,0500000US39017,39017,Ohio - Butler County,Butler County,58730,2366
+0400000US39,39,Ohio,0500000US39023,39023,Ohio - Clark County,Clark County,41729,1303
+0400000US39,39,Ohio,0500000US39025,39025,Ohio - Clermont County,Clermont County,62554,2631
+0400000US39,39,Ohio,0500000US39029,39029,Ohio - Columbiana County,Columbiana County,42640,3345
+0400000US39,39,Ohio,0500000US39035,39035,Ohio - Cuyahoga County,Cuyahoga County,44016,960
+0400000US39,39,Ohio,0500000US39041,39041,Ohio - Delaware County,Delaware County,96949,4512
+0400000US39,39,Ohio,0500000US39043,39043,Ohio - Erie County,Erie County,48734,4888
+0400000US39,39,Ohio,0500000US39045,39045,Ohio - Fairfield County,Fairfield County,59933,3571
+0400000US39,39,Ohio,0500000US39049,39049,Ohio - Franklin County,Franklin County,53180,1181
+0400000US39,39,Ohio,0500000US39055,39055,Ohio - Geauga County,Geauga County,72001,2543
+0400000US39,39,Ohio,0500000US39057,39057,Ohio - Greene County,Greene County,58396,4388
+0400000US39,39,Ohio,0500000US39061,39061,Ohio - Hamilton County,Hamilton County,48770,1611
+0400000US39,39,Ohio,0500000US39063,39063,Ohio - Hancock County,Hancock County,50898,2290
+0400000US39,39,Ohio,0500000US39081,39081,Ohio - Jefferson County,Jefferson County,40293,4379
+0400000US39,39,Ohio,0500000US39085,39085,Ohio - Lake County,Lake County,58721,2882
+0400000US39,39,Ohio,0500000US39089,39089,Ohio - Licking County,Licking County,57654,3459
+0400000US39,39,Ohio,0500000US39093,39093,Ohio - Lorain County,Lorain County,52082,2024
+0400000US39,39,Ohio,0500000US39095,39095,Ohio - Lucas County,Lucas County,42132,1342
+0400000US39,39,Ohio,0500000US39099,39099,Ohio - Mahoning County,Mahoning County,41134,1444
+0400000US39,39,Ohio,0500000US39101,39101,Ohio - Marion County,Marion County,39233,4441
+0400000US39,39,Ohio,0500000US39103,39103,Ohio - Medina County,Medina County,67969,3414
+0400000US39,39,Ohio,0500000US39109,39109,Ohio - Miami County,Miami County,51087,3175
+0400000US39,39,Ohio,0500000US39113,39113,Ohio - Montgomery County,Montgomery County,42644,1412
+0400000US39,39,Ohio,0500000US39119,39119,Ohio - Muskingum County,Muskingum County,41230,4066
+0400000US39,39,Ohio,0500000US39133,39133,Ohio - Portage County,Portage County,51275,3152
+0400000US39,39,Ohio,0500000US39139,39139,Ohio - Richland County,Richland County,41548,2261
+0400000US39,39,Ohio,0500000US39141,39141,Ohio - Ross County,Ross County,40764,3566
+0400000US39,39,Ohio,0500000US39145,39145,Ohio - Scioto County,Scioto County,38233,3438
+0400000US39,39,Ohio,0500000US39151,39151,Ohio - Stark County,Stark County,47713,1514
+0400000US39,39,Ohio,0500000US39153,39153,Ohio - Summit County,Summit County,50365,1394
+0400000US39,39,Ohio,0500000US39155,39155,Ohio - Trumbull County,Trumbull County,43039,1947
+0400000US39,39,Ohio,0500000US39157,39157,Ohio - Tuscarawas County,Tuscarawas County,46253,2817
+0400000US39,39,Ohio,0500000US39165,39165,Ohio - Warren County,Warren County,71731,3590
+0400000US39,39,Ohio,0500000US39169,39169,Ohio - Wayne County,Wayne County,49988,3368
+0400000US39,39,Ohio,0500000US39173,39173,Ohio - Wood County,Wood County,54402,3234
+0400000US40,40,Oklahoma,0400000US40,40,Oklahoma,Oklahoma,47529,454
+0400000US40,40,Oklahoma,0500000US40017,40017,Oklahoma - Canadian County,Canadian County,68552,2886
+0400000US40,40,Oklahoma,0500000US40027,40027,Oklahoma - Cleveland County,Cleveland County,58286,3422
+0400000US40,40,Oklahoma,0500000US40031,40031,Oklahoma - Comanche County,Comanche County,47235,4394
+0400000US40,40,Oklahoma,0500000US40037,40037,Oklahoma - Creek County,Creek County,47286,4072
+0400000US40,40,Oklahoma,0500000US40101,40101,Oklahoma - Muskogee County,Muskogee County,42756,3824
+0400000US40,40,Oklahoma,0500000US40109,40109,Oklahoma - Oklahoma County,Oklahoma County,48183,1508
+0400000US40,40,Oklahoma,0500000US40119,40119,Oklahoma - Payne County,Payne County,38642,4560
+0400000US40,40,Oklahoma,0500000US40125,40125,Oklahoma - Pottawatomie County,Pottawatomie County,46839,3529
+0400000US40,40,Oklahoma,0500000US40131,40131,Oklahoma - Rogers County,Rogers County,55626,2595
+0400000US40,40,Oklahoma,0500000US40143,40143,Oklahoma - Tulsa County,Tulsa County,50460,930
+0400000US40,40,Oklahoma,0500000US40145,40145,Oklahoma - Wagoner County,Wagoner County,59170,3109
+0400000US41,41,Oregon,0400000US41,41,Oregon,Oregon,51075,490
+0400000US41,41,Oregon,0500000US41003,41003,Oregon - Benton County,Benton County,52486,6621
+0400000US41,41,Oregon,0500000US41005,41005,Oregon - Clackamas County,Clackamas County,65316,2903
+0400000US41,41,Oregon,0500000US41017,41017,Oregon - Deschutes County,Deschutes County,52006,3650
+0400000US41,41,Oregon,0500000US41019,41019,Oregon - Douglas County,Douglas County,42000,3139
+0400000US41,41,Oregon,0500000US41029,41029,Oregon - Jackson County,Jackson County,44918,2894
+0400000US41,41,Oregon,0500000US41033,41033,Oregon - Josephine County,Josephine County,36870,4979
+0400000US41,41,Oregon,0500000US41035,41035,Oregon - Klamath County,Klamath County,39148,3951
+0400000US41,41,Oregon,0500000US41039,41039,Oregon - Lane County,Lane County,44877,2158
+0400000US41,41,Oregon,0500000US41043,41043,Oregon - Linn County,Linn County,43428,4024
+0400000US41,41,Oregon,0500000US41047,41047,Oregon - Marion County,Marion County,48620,2448
+0400000US41,41,Oregon,0500000US41051,41051,Oregon - Multnomah County,Multnomah County,53660,1966
+0400000US41,41,Oregon,0500000US41053,41053,Oregon - Polk County,Polk County,51893,4463
+0400000US41,41,Oregon,0500000US41059,41059,Oregon - Umatilla County,Umatilla County,44402,3408
+0400000US41,41,Oregon,0500000US41067,41067,Oregon - Washington County,Washington County,66136,2793
+0400000US41,41,Oregon,0500000US41071,41071,Oregon - Yamhill County,Yamhill County,52255,4205
+0400000US42,42,Pennsylvania,0400000US42,42,Pennsylvania,Pennsylvania,53234,420
+0400000US42,42,Pennsylvania,0500000US42001,42001,Pennsylvania - Adams County,Adams County,61543,3279
+0400000US42,42,Pennsylvania,0500000US42003,42003,Pennsylvania - Allegheny County,Allegheny County,52400,943
+0400000US42,42,Pennsylvania,0500000US42005,42005,Pennsylvania - Armstrong County,Armstrong County,44946,4049
+0400000US42,42,Pennsylvania,0500000US42007,42007,Pennsylvania - Beaver County,Beaver County,51222,1496
+0400000US42,42,Pennsylvania,0500000US42011,42011,Pennsylvania - Berks County,Berks County,56059,1775
+0400000US42,42,Pennsylvania,0500000US42013,42013,Pennsylvania - Blair County,Blair County,44019,4070
+0400000US42,42,Pennsylvania,0500000US42017,42017,Pennsylvania - Bucks County,Bucks County,77917,2234
+0400000US42,42,Pennsylvania,0500000US42019,42019,Pennsylvania - Butler County,Butler County,60782,2807
+0400000US42,42,Pennsylvania,0500000US42021,42021,Pennsylvania - Cambria County,Cambria County,43224,2148
+0400000US42,42,Pennsylvania,0500000US42025,42025,Pennsylvania - Carbon County,Carbon County,50023,2779
+0400000US42,42,Pennsylvania,0500000US42027,42027,Pennsylvania - Centre County,Centre County,51367,2696
+0400000US42,42,Pennsylvania,0500000US42029,42029,Pennsylvania - Chester County,Chester County,85373,3319
+0400000US42,42,Pennsylvania,0500000US42033,42033,Pennsylvania - Clearfield County,Clearfield County,39592,2878
+0400000US42,42,Pennsylvania,0500000US42037,42037,Pennsylvania - Columbia County,Columbia County,48540,4507
+0400000US42,42,Pennsylvania,0500000US42039,42039,Pennsylvania - Crawford County,Crawford County,44598,3003
+0400000US42,42,Pennsylvania,0500000US42041,42041,Pennsylvania - Cumberland County,Cumberland County,62759,2591
+0400000US42,42,Pennsylvania,0500000US42043,42043,Pennsylvania - Dauphin County,Dauphin County,52975,2580
+0400000US42,42,Pennsylvania,0500000US42045,42045,Pennsylvania - Delaware County,Delaware County,62993,2886
+0400000US42,42,Pennsylvania,0500000US42049,42049,Pennsylvania - Erie County,Erie County,45560,2075
+0400000US42,42,Pennsylvania,0500000US42051,42051,Pennsylvania - Fayette County,Fayette County,36562,2472
+0400000US42,42,Pennsylvania,0500000US42055,42055,Pennsylvania - Franklin County,Franklin County,49487,3018
+0400000US42,42,Pennsylvania,0500000US42063,42063,Pennsylvania - Indiana County,Indiana County,42431,3282
+0400000US42,42,Pennsylvania,0500000US42069,42069,Pennsylvania - Lackawanna County,Lackawanna County,45265,2507
+0400000US42,42,Pennsylvania,0500000US42071,42071,Pennsylvania - Lancaster County,Lancaster County,57403,1924
+0400000US42,42,Pennsylvania,0500000US42073,42073,Pennsylvania - Lawrence County,Lawrence County,45356,2683
+0400000US42,42,Pennsylvania,0500000US42075,42075,Pennsylvania - Lebanon County,Lebanon County,54068,2745
+0400000US42,42,Pennsylvania,0500000US42077,42077,Pennsylvania - Lehigh County,Lehigh County,58603,1609
+0400000US42,42,Pennsylvania,0500000US42079,42079,Pennsylvania - Luzerne County,Luzerne County,44311,1654
+0400000US42,42,Pennsylvania,0500000US42081,42081,Pennsylvania - Lycoming County,Lycoming County,45161,2589
+0400000US42,42,Pennsylvania,0500000US42085,42085,Pennsylvania - Mercer County,Mercer County,43574,2579
+0400000US42,42,Pennsylvania,0500000US42089,42089,Pennsylvania - Monroe County,Monroe County,63118,5677
+0400000US42,42,Pennsylvania,0500000US42091,42091,Pennsylvania - Montgomery County,Montgomery County,79495,2513
+0400000US42,42,Pennsylvania,0500000US42095,42095,Pennsylvania - Northampton County,Northampton County,61879,2156
+0400000US42,42,Pennsylvania,0500000US42097,42097,Pennsylvania - Northumberland County,Northumberland County,39778,2632
+0400000US42,42,Pennsylvania,0500000US42101,42101,Pennsylvania - Philadelphia County,Philadelphia County,39043,1237
+0400000US42,42,Pennsylvania,0500000US42107,42107,Pennsylvania - Schuylkill County,Schuylkill County,43044,2644
+0400000US42,42,Pennsylvania,0500000US42111,42111,Pennsylvania - Somerset County,Somerset County,46217,1833
+0400000US42,42,Pennsylvania,0500000US42125,42125,Pennsylvania - Washington County,Washington County,56047,2712
+0400000US42,42,Pennsylvania,0500000US42129,42129,Pennsylvania - Westmoreland County,Westmoreland County,53844,2161
+0400000US42,42,Pennsylvania,0500000US42133,42133,Pennsylvania - York County,York County,58587,2142
+0400000US44,44,Rhode Island,0400000US44,44,Rhode Island,Rhode Island,54891,1488
+0400000US44,44,Rhode Island,0500000US44003,44003,Rhode Island - Kent County,Kent County,62261,4638
+0400000US44,44,Rhode Island,0500000US44005,44005,Rhode Island - Newport County,Newport County,71799,5787
+0400000US44,44,Rhode Island,0500000US44007,44007,Rhode Island - Providence County,Providence County,47481,2221
+0400000US44,44,Rhode Island,0500000US44009,44009,Rhode Island - Washington County,Washington County,71229,5251
+0400000US45,45,South Carolina,0400000US45,45,South Carolina,South Carolina,45238,507
+0400000US45,45,South Carolina,0500000US45003,45003,South Carolina - Aiken County,Aiken County,48882,2528
+0400000US45,45,South Carolina,0500000US45007,45007,South Carolina - Anderson County,Anderson County,42837,2195
+0400000US45,45,South Carolina,0500000US45013,45013,South Carolina - Beaufort County,Beaufort County,54996,3378
+0400000US45,45,South Carolina,0500000US45015,45015,South Carolina - Berkeley County,Berkeley County,52427,2404
+0400000US45,45,South Carolina,0500000US45019,45019,South Carolina - Charleston County,Charleston County,53308,2837
+0400000US45,45,South Carolina,0500000US45031,45031,South Carolina - Darlington County,Darlington County,34651,3902
+0400000US45,45,South Carolina,0500000US45035,45035,South Carolina - Dorchester County,Dorchester County,56277,5165
+0400000US45,45,South Carolina,0500000US45041,45041,South Carolina - Florence County,Florence County,43148,4423
+0400000US45,45,South Carolina,0500000US45045,45045,South Carolina - Greenville County,Greenville County,49268,2101
+0400000US45,45,South Carolina,0500000US45047,45047,South Carolina - Greenwood County,Greenwood County,37831,3786
+0400000US45,45,South Carolina,0500000US45051,45051,South Carolina - Horry County,Horry County,43001,1704
+0400000US45,45,South Carolina,0500000US45057,45057,South Carolina - Lancaster County,Lancaster County,44412,3913
+0400000US45,45,South Carolina,0500000US45059,45059,South Carolina - Laurens County,Laurens County,37638,3982
+0400000US45,45,South Carolina,0500000US45063,45063,South Carolina - Lexington County,Lexington County,53980,3130
+0400000US45,45,South Carolina,0500000US45073,45073,South Carolina - Oconee County,Oconee County,35159,3328
+0400000US45,45,South Carolina,0500000US45075,45075,South Carolina - Orangeburg County,Orangeburg County,28680,3070
+0400000US45,45,South Carolina,0500000US45077,45077,South Carolina - Pickens County,Pickens County,40136,3206
+0400000US45,45,South Carolina,0500000US45079,45079,South Carolina - Richland County,Richland County,50028,2181
+0400000US45,45,South Carolina,0500000US45083,45083,South Carolina - Spartanburg County,Spartanburg County,43688,2397
+0400000US45,45,South Carolina,0500000US45085,45085,South Carolina - Sumter County,Sumter County,36633,4289
+0400000US45,45,South Carolina,0500000US45091,45091,South Carolina - York County,York County,52565,4175
+0400000US46,46,South Dakota,0400000US46,46,South Dakota,South Dakota,50979,1027
+0400000US46,46,South Dakota,0500000US46099,46099,South Dakota - Minnehaha County,Minnehaha County,54829,3123
+0400000US46,46,South Dakota,0500000US46103,46103,South Dakota - Pennington County,Pennington County,47838,3096
+0400000US47,47,Tennessee,0400000US47,47,Tennessee,Tennessee,44361,561
+0400000US47,47,Tennessee,0500000US47001,47001,Tennessee - Anderson County,Anderson County,47821,5538
+0400000US47,47,Tennessee,0500000US47009,47009,Tennessee - Blount County,Blount County,46819,3013
+0400000US47,47,Tennessee,0500000US47011,47011,Tennessee - Bradley County,Bradley County,42563,4452
+0400000US47,47,Tennessee,0500000US47037,47037,Tennessee - Davidson County,Davidson County,47993,1833
+0400000US47,47,Tennessee,0500000US47059,47059,Tennessee - Greene County,Greene County,36694,3365
+0400000US47,47,Tennessee,0500000US47065,47065,Tennessee - Hamilton County,Hamilton County,48379,1867
+0400000US47,47,Tennessee,0500000US47093,47093,Tennessee - Knox County,Knox County,46860,1943
+0400000US47,47,Tennessee,0500000US47113,47113,Tennessee - Madison County,Madison County,42412,3611
+0400000US47,47,Tennessee,0500000US47119,47119,Tennessee - Maury County,Maury County,53990,6466
+0400000US47,47,Tennessee,0500000US47125,47125,Tennessee - Montgomery County,Montgomery County,50941,1617
+0400000US47,47,Tennessee,0500000US47141,47141,Tennessee - Putnam County,Putnam County,35516,4113
+0400000US47,47,Tennessee,0500000US47147,47147,Tennessee - Robertson County,Robertson County,51883,4904
+0400000US47,47,Tennessee,0500000US47149,47149,Tennessee - Rutherford County,Rutherford County,52502,3339
+0400000US47,47,Tennessee,0500000US47155,47155,Tennessee - Sevier County,Sevier County,39175,3278
+0400000US47,47,Tennessee,0500000US47157,47157,Tennessee - Shelby County,Shelby County,43938,1614
+0400000US47,47,Tennessee,0500000US47163,47163,Tennessee - Sullivan County,Sullivan County,38251,1895
+0400000US47,47,Tennessee,0500000US47165,47165,Tennessee - Sumner County,Sumner County,58316,4388
+0400000US47,47,Tennessee,0500000US47179,47179,Tennessee - Washington County,Washington County,42950,2804
+0400000US47,47,Tennessee,0500000US47187,47187,Tennessee - Williamson County,Williamson County,93337,7622
+0400000US47,47,Tennessee,0500000US47189,47189,Tennessee - Wilson County,Wilson County,59685,4050
+0400000US48,48,Texas,0400000US48,48,Texas,Texas,53035,377
+0400000US48,48,Texas,0500000US48005,48005,Texas - Angelina County,Angelina County,42156,3581
+0400000US48,48,Texas,0500000US48021,48021,Texas - Bastrop County,Bastrop County,53631,7506
+0400000US48,48,Texas,0500000US48027,48027,Texas - Bell County,Bell County,51221,1309
+0400000US48,48,Texas,0500000US48029,48029,Texas - Bexar County,Bexar County,50760,929
+0400000US48,48,Texas,0500000US48037,48037,Texas - Bowie County,Bowie County,40493,6851
+0400000US48,48,Texas,0500000US48039,48039,Texas - Brazoria County,Brazoria County,74799,3396
+0400000US48,48,Texas,0500000US48041,48041,Texas - Brazos County,Brazos County,40973,2685
+0400000US48,48,Texas,0500000US48061,48061,Texas - Cameron County,Cameron County,32093,1534
+0400000US48,48,Texas,0500000US48085,48085,Texas - Collin County,Collin County,86040,2639
+0400000US48,48,Texas,0500000US48091,48091,Texas - Comal County,Comal County,62389,7351
+0400000US48,48,Texas,0500000US48099,48099,Texas - Coryell County,Coryell County,47042,4682
+0400000US48,48,Texas,0500000US48113,48113,Texas - Dallas County,Dallas County,50076,932
+0400000US48,48,Texas,0500000US48121,48121,Texas - Denton County,Denton County,74196,2431
+0400000US48,48,Texas,0500000US48135,48135,Texas - Ector County,Ector County,58701,6825
+0400000US48,48,Texas,0500000US48139,48139,Texas - Ellis County,Ellis County,60294,5499
+0400000US48,48,Texas,0500000US48141,48141,Texas - El Paso County,El Paso County,40170,1315
+0400000US48,48,Texas,0500000US48157,48157,Texas - Fort Bend County,Fort Bend County,87973,5196
+0400000US48,48,Texas,0500000US48167,48167,Texas - Galveston County,Galveston County,57991,4710
+0400000US48,48,Texas,0500000US48181,48181,Texas - Grayson County,Grayson County,52058,5130
+0400000US48,48,Texas,0500000US48183,48183,Texas - Gregg County,Gregg County,50917,3542
+0400000US48,48,Texas,0500000US48187,48187,Texas - Guadalupe County,Guadalupe County,61538,3701
+0400000US48,48,Texas,0500000US48201,48201,Texas - Harris County,Harris County,54178,971
+0400000US48,48,Texas,0500000US48203,48203,Texas - Harrison County,Harrison County,49490,8527
+0400000US48,48,Texas,0500000US48209,48209,Texas - Hays County,Hays County,59085,3316
+0400000US48,48,Texas,0500000US48213,48213,Texas - Henderson County,Henderson County,41112,2211
+0400000US48,48,Texas,0500000US48215,48215,Texas - Hidalgo County,Hidalgo County,34801,2019
+0400000US48,48,Texas,0500000US48231,48231,Texas - Hunt County,Hunt County,42038,3839
+0400000US48,48,Texas,0500000US48245,48245,Texas - Jefferson County,Jefferson County,40652,1704
+0400000US48,48,Texas,0500000US48251,48251,Texas - Johnson County,Johnson County,55739,5260
+0400000US48,48,Texas,0500000US48257,48257,Texas - Kaufman County,Kaufman County,56098,5849
+0400000US48,48,Texas,0500000US48291,48291,Texas - Liberty County,Liberty County,44188,4757
+0400000US48,48,Texas,0500000US48303,48303,Texas - Lubbock County,Lubbock County,46076,2113
+0400000US48,48,Texas,0500000US48309,48309,Texas - McLennan County,McLennan County,43609,2854
+0400000US48,48,Texas,0500000US48329,48329,Texas - Midland County,Midland County,77711,8560
+0400000US48,48,Texas,0500000US48339,48339,Texas - Montgomery County,Montgomery County,70243,3273
+0400000US48,48,Texas,0500000US48347,48347,Texas - Nacogdoches County,Nacogdoches County,39326,2656
+0400000US48,48,Texas,0500000US48355,48355,Texas - Nueces County,Nueces County,51817,1964
+0400000US48,48,Texas,0500000US48361,48361,Texas - Orange County,Orange County,46809,6250
+0400000US48,48,Texas,0500000US48367,48367,Texas - Parker County,Parker County,68882,5990
+0400000US48,48,Texas,0500000US48375,48375,Texas - Potter County,Potter County,38324,3111
+0400000US48,48,Texas,0500000US48381,48381,Texas - Randall County,Randall County,65749,4074
+0400000US48,48,Texas,0500000US48397,48397,Texas - Rockwall County,Rockwall County,80407,6312
+0400000US48,48,Texas,0500000US48409,48409,Texas - San Patricio County,San Patricio County,53877,4565
+0400000US48,48,Texas,0500000US48423,48423,Texas - Smith County,Smith County,43958,3248
+0400000US48,48,Texas,0500000US48439,48439,Texas - Tarrant County,Tarrant County,58099,1317
+0400000US48,48,Texas,0500000US48441,48441,Texas - Taylor County,Taylor County,45907,3164
+0400000US48,48,Texas,0500000US48451,48451,Texas - Tom Green County,Tom Green County,44959,5325
+0400000US48,48,Texas,0500000US48453,48453,Texas - Travis County,Travis County,61787,1397
+0400000US48,48,Texas,0500000US48469,48469,Texas - Victoria County,Victoria County,50245,5636
+0400000US48,48,Texas,0500000US48471,48471,Texas - Walker County,Walker County,38483,4654
+0400000US48,48,Texas,0500000US48479,48479,Texas - Webb County,Webb County,38312,2346
+0400000US48,48,Texas,0500000US48485,48485,Texas - Wichita County,Wichita County,42996,3069
+0400000US48,48,Texas,0500000US48491,48491,Texas - Williamson County,Williamson County,72453,2331
+0400000US49,49,Utah,0400000US49,49,Utah,Utah,60922,658
+0400000US49,49,Utah,0500000US49005,49005,Utah - Cache County,Cache County,51556,1713
+0400000US49,49,Utah,0500000US49011,49011,Utah - Davis County,Davis County,70440,2717
+0400000US49,49,Utah,0500000US49035,49035,Utah - Salt Lake County,Salt Lake County,62672,1789
+0400000US49,49,Utah,0500000US49049,49049,Utah - Utah County,Utah County,60944,1235
+0400000US49,49,Utah,0500000US49053,49053,Utah - Washington County,Washington County,49981,4465
+0400000US49,49,Utah,0500000US49057,49057,Utah - Weber County,Weber County,59604,2464
+0400000US50,50,Vermont,0400000US50,50,Vermont,Vermont,54166,1724
+0400000US50,50,Vermont,0500000US50007,50007,Vermont - Chittenden County,Chittenden County,62004,3447
+0400000US51,51,Virginia,0400000US51,51,Virginia,Virginia,64902,624
+0400000US51,51,Virginia,0500000US51003,51003,Virginia - Albemarle County,Albemarle County,64722,5683
+0400000US51,51,Virginia,0500000US51013,51013,Virginia - Arlington County,Arlington County,109266,4862
+0400000US51,51,Virginia,0500000US51015,51015,Virginia - Augusta County,Augusta County,58322,2675
+0400000US51,51,Virginia,0500000US51019,51019,Virginia - Bedford County,Bedford County,56996,5291
+0400000US51,51,Virginia,0500000US51041,51041,Virginia - Chesterfield County,Chesterfield County,72878,3077
+0400000US51,51,Virginia,0500000US51059,51059,Virginia - Fairfax County,Fairfax County,110674,1976
+0400000US51,51,Virginia,0500000US51061,51061,Virginia - Fauquier County,Fauquier County,91987,7930
+0400000US51,51,Virginia,0500000US51069,51069,Virginia - Frederick County,Frederick County,66167,6444
+0400000US51,51,Virginia,0500000US51085,51085,Virginia - Hanover County,Hanover County,83756,6877
+0400000US51,51,Virginia,0500000US51087,51087,Virginia - Henrico County,Henrico County,62460,2442
+0400000US51,51,Virginia,0500000US51095,51095,Virginia - James City County,James City County,72622,7760
+0400000US51,51,Virginia,0500000US51107,51107,Virginia - Loudoun County,Loudoun County,122294,3167
+0400000US51,51,Virginia,0500000US51121,51121,Virginia - Montgomery County,Montgomery County,42052,3079
+0400000US51,51,Virginia,0500000US51153,51153,Virginia - Prince William County,Prince William County,92104,2808
+0400000US51,51,Virginia,0500000US51161,51161,Virginia - Roanoke County,Roanoke County,62091,3827
+0400000US51,51,Virginia,0500000US51165,51165,Virginia - Rockingham County,Rockingham County,56112,3224
+0400000US51,51,Virginia,0500000US51177,51177,Virginia - Spotsylvania County,Spotsylvania County,75686,3494
+0400000US51,51,Virginia,0500000US51179,51179,Virginia - Stafford County,Stafford County,93422,6986
+0400000US51,51,Virginia,0500000US51199,51199,Virginia - York County,York County,81636,6684
+0400000US51,51,Virginia,0500000US51510,51510,Virginia - Alexandria city,Alexandria city,86809,5554
+0400000US51,51,Virginia,0500000US51550,51550,Virginia - Chesapeake city,Chesapeake city,66712,1986
+0400000US51,51,Virginia,0500000US51650,51650,Virginia - Hampton city,Hampton city,47312,3293
+0400000US51,51,Virginia,0500000US51680,51680,Virginia - Lynchburg city,Lynchburg city,40594,3382
+0400000US51,51,Virginia,0500000US51700,51700,Virginia - Newport News city,Newport News city,49602,3648
+0400000US51,51,Virginia,0500000US51710,51710,Virginia - Norfolk city,Norfolk city,43186,2340
+0400000US51,51,Virginia,0500000US51740,51740,Virginia - Portsmouth city,Portsmouth city,44905,6208
+0400000US51,51,Virginia,0500000US51760,51760,Virginia - Richmond city,Richmond city,43054,3048
+0400000US51,51,Virginia,0500000US51770,51770,Virginia - Roanoke city,Roanoke city,41697,3561
+0400000US51,51,Virginia,0500000US51800,51800,Virginia - Suffolk city,Suffolk city,62079,5426
+0400000US51,51,Virginia,0500000US51810,51810,Virginia - Virginia Beach city,Virginia Beach city,68816,3220
+0400000US53,53,Washington,0400000US53,53,Washington,Washington,61366,485
+0400000US53,53,Washington,0500000US53005,53005,Washington - Benton County,Benton County,58093,2708
+0400000US53,53,Washington,0500000US53007,53007,Washington - Chelan County,Chelan County,50177,6746
+0400000US53,53,Washington,0500000US53009,53009,Washington - Clallam County,Clallam County,46469,4951
+0400000US53,53,Washington,0500000US53011,53011,Washington - Clark County,Clark County,61741,1371
+0400000US53,53,Washington,0500000US53015,53015,Washington - Cowlitz County,Cowlitz County,42223,2904
+0400000US53,53,Washington,0500000US53021,53021,Washington - Franklin County,Franklin County,57890,5679
+0400000US53,53,Washington,0500000US53025,53025,Washington - Grant County,Grant County,51949,3655
+0400000US53,53,Washington,0500000US53027,53027,Washington - Grays Harbor County,Grays Harbor County,43356,2589
+0400000US53,53,Washington,0500000US53029,53029,Washington - Island County,Island County,59934,4322
+0400000US53,53,Washington,0500000US53033,53033,Washington - King County,King County,75834,1400
+0400000US53,53,Washington,0500000US53035,53035,Washington - Kitsap County,Kitsap County,61794,2426
+0400000US53,53,Washington,0500000US53041,53041,Washington - Lewis County,Lewis County,43575,5037
+0400000US53,53,Washington,0500000US53053,53053,Washington - Pierce County,Pierce County,60496,1535
+0400000US53,53,Washington,0500000US53057,53057,Washington - Skagit County,Skagit County,50558,2791
+0400000US53,53,Washington,0500000US53061,53061,Washington - Snohomish County,Snohomish County,71984,1780
+0400000US53,53,Washington,0500000US53063,53063,Washington - Spokane County,Spokane County,50249,2060
+0400000US53,53,Washington,0500000US53067,53067,Washington - Thurston County,Thurston County,61609,2827
+0400000US53,53,Washington,0500000US53073,53073,Washington - Whatcom County,Whatcom County,53665,2845
+0400000US53,53,Washington,0500000US53077,53077,Washington - Yakima County,Yakima County,44648,2625
+0400000US54,54,West Virginia,0400000US54,54,West Virginia,West Virginia,41059,651
+0400000US54,54,West Virginia,0500000US54003,54003,West Virginia - Berkeley County,Berkeley County,58754,4414
+0400000US54,54,West Virginia,0500000US54011,54011,West Virginia - Cabell County,Cabell County,34046,2044
+0400000US54,54,West Virginia,0500000US54033,54033,West Virginia - Harrison County,Harrison County,41333,2627
+0400000US54,54,West Virginia,0500000US54039,54039,West Virginia - Kanawha County,Kanawha County,44186,3147
+0400000US54,54,West Virginia,0500000US54061,54061,West Virginia - Monongalia County,Monongalia County,41955,4619
+0400000US54,54,West Virginia,0500000US54081,54081,West Virginia - Raleigh County,Raleigh County,40561,3745
+0400000US54,54,West Virginia,0500000US54107,54107,West Virginia - Wood County,Wood County,42014,2784
+0400000US55,55,Wisconsin,0400000US55,55,Wisconsin,Wisconsin,52622,433
+0400000US55,55,Wisconsin,0500000US55009,55009,Wisconsin - Brown County,Brown County,53392,2473
+0400000US55,55,Wisconsin,0500000US55025,55025,Wisconsin - Dane County,Dane County,61582,1791
+0400000US55,55,Wisconsin,0500000US55027,55027,Wisconsin - Dodge County,Dodge County,53139,3928
+0400000US55,55,Wisconsin,0500000US55035,55035,Wisconsin - Eau Claire County,Eau Claire County,47043,3168
+0400000US55,55,Wisconsin,0500000US55039,55039,Wisconsin - Fond du Lac County,Fond du Lac County,51717,1687
+0400000US55,55,Wisconsin,0500000US55055,55055,Wisconsin - Jefferson County,Jefferson County,55675,4330
+0400000US55,55,Wisconsin,0500000US55059,55059,Wisconsin - Kenosha County,Kenosha County,52787,4290
+0400000US55,55,Wisconsin,0500000US55063,55063,Wisconsin - La Crosse County,La Crosse County,48872,3229
+0400000US55,55,Wisconsin,0500000US55071,55071,Wisconsin - Manitowoc County,Manitowoc County,45136,3861
+0400000US55,55,Wisconsin,0500000US55073,55073,Wisconsin - Marathon County,Marathon County,53300,3973
+0400000US55,55,Wisconsin,0500000US55079,55079,Wisconsin - Milwaukee County,Milwaukee County,42765,1273
+0400000US55,55,Wisconsin,0500000US55087,55087,Wisconsin - Outagamie County,Outagamie County,58118,3675
+0400000US55,55,Wisconsin,0500000US55089,55089,Wisconsin - Ozaukee County,Ozaukee County,72103,7854
+0400000US55,55,Wisconsin,0500000US55097,55097,Wisconsin - Portage County,Portage County,51399,2606
+0400000US55,55,Wisconsin,0500000US55101,55101,Wisconsin - Racine County,Racine County,54525,2259
+0400000US55,55,Wisconsin,0500000US55105,55105,Wisconsin - Rock County,Rock County,50610,3132
+0400000US55,55,Wisconsin,0500000US55109,55109,Wisconsin - St. Croix County,St. Croix County,76024,4865
+0400000US55,55,Wisconsin,0500000US55117,55117,Wisconsin - Sheboygan County,Sheboygan County,54042,3459
+0400000US55,55,Wisconsin,0500000US55127,55127,Wisconsin - Walworth County,Walworth County,52277,2385
+0400000US55,55,Wisconsin,0500000US55131,55131,Wisconsin - Washington County,Washington County,68424,3408
+0400000US55,55,Wisconsin,0500000US55133,55133,Wisconsin - Waukesha County,Waukesha County,76053,2476
+0400000US55,55,Wisconsin,0500000US55139,55139,Wisconsin - Winnebago County,Winnebago County,52387,1834
+0400000US55,55,Wisconsin,0500000US55141,55141,Wisconsin - Wood County,Wood County,50831,2657
+0400000US56,56,Wyoming,0400000US56,56,Wyoming,Wyoming,57055,1983
+0400000US56,56,Wyoming,0500000US56021,56021,Wyoming - Laramie County,Laramie County,57551,6018
+0400000US56,56,Wyoming,0500000US56025,56025,Wyoming - Natrona County,Natrona County,56392,5178
+0400000US72,72,Puerto Rico,0400000US72,72,Puerto Rico,Puerto Rico,18928,367
+0400000US72,72,Puerto Rico,0500000US72013,72013,Puerto Rico - Arecibo Municipio,Arecibo Municipio,16325,1445
+0400000US72,72,Puerto Rico,0500000US72021,72021,Puerto Rico - Bayamón Municipio,Bayamón Municipio,25271,1665
+0400000US72,72,Puerto Rico,0500000US72025,72025,Puerto Rico - Caguas Municipio,Caguas Municipio,24145,2009
+0400000US72,72,Puerto Rico,0500000US72031,72031,Puerto Rico - Carolina Municipio,Carolina Municipio,28792,1494
+0400000US72,72,Puerto Rico,0500000US72061,72061,Puerto Rico - Guaynabo Municipio,Guaynabo Municipio,32064,2961
+0400000US72,72,Puerto Rico,0500000US72097,72097,Puerto Rico - Mayagüez Municipio,Mayagüez Municipio,14108,1314
+0400000US72,72,Puerto Rico,0500000US72113,72113,Puerto Rico - Ponce Municipio,Ponce Municipio,15935,1669
+0400000US72,72,Puerto Rico,0500000US72127,72127,Puerto Rico - San Juan Municipio,San Juan Municipio,20234,972
+0400000US72,72,Puerto Rico,0500000US72135,72135,Puerto Rico - Toa Alta Municipio,Toa Alta Municipio,29341,2611
+0400000US72,72,Puerto Rico,0500000US72137,72137,Puerto Rico - Toa Baja Municipio,Toa Baja Municipio,22166,2496
+0400000US72,72,Puerto Rico,0500000US72139,72139,Puerto Rico - Trujillo Alto Municipio,Trujillo Alto Municipio,25972,2579
