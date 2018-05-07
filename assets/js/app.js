@@ -25,6 +25,7 @@ var chartGroup = svg.append("g")
 
 // Initial Params
 var chosenXAxis = "median_income"
+var chosenYAxis = "pct_depressed"
 
 // function used for updating x-scale var upon click on axis label
 function xScale(dataSet, chosenXAxis) {
@@ -34,13 +35,22 @@ function xScale(dataSet, chosenXAxis) {
       d3.max(dataSet, d => d[chosenXAxis]) * 1.2
     ])
     .range([0, width])
-
   return xLinearScale
-
 };
 
+function yScale(dataSet, chosenYAxis) {
+  // create scales
+  var yLinearScale = d3.scaleLinear()
+    .domain([d3.min(dataSet, d => d[chosenYAxis]) * 0.8,
+      d3.max(dataSet, d => d[chosenYAxis]) * 1.2
+    ])
+    .range([height, 0])
+  return yLinearScale
+};
+
+
 // function used for updating xAxis var upon click on axis label
-function renderAxes(newXScale, xAxis) {
+function renderXAxes(newXScale, xAxis) {
   var bottomAxis = d3.axisBottom(newXScale)
 
   xAxis.transition()
@@ -52,11 +62,12 @@ function renderAxes(newXScale, xAxis) {
 
 // function used for updating circles group with a transition to
 // new circles
-function renderCircles(circlesGroup, newXScale, chosenXaxis) {
+function renderCircles(circlesGroup, newXScale, chosenXAxis, chosenYAxis) {
 
   circlesGroup.transition()
     .duration(1000)
     .attr("cx", d => newXScale(d[chosenXAxis]))
+    //.attr("cy", d => newYScale(d[chosenYAxis]))
 
   return circlesGroup
 };
@@ -65,7 +76,7 @@ function renderCircles(circlesGroup, newXScale, chosenXaxis) {
 function updateToolTip(chosenXAxis, circlesGroup) {
 
   if (chosenXAxis == "median_income") {
-    var label = "Median Household Income:"
+    var label = "Median Household Income: $"
   } else if (chosenXAxis == "median_age") {
     var label = "Median Age:"
   } else {
@@ -77,7 +88,7 @@ function updateToolTip(chosenXAxis, circlesGroup) {
     .attr("class", "tooltip")
     .offset([80, -60])
     .html(function (d) {
-      return (`${d.loc_name}<br>${label} ${d[chosenXAxis]}`);
+      return (`${d.loc_name}<br>${label} ${d[chosenXAxis]}<br>${d[chosenYAxis]}`);
     });
 
   circlesGroup.call(toolTip);
@@ -94,7 +105,7 @@ function updateToolTip(chosenXAxis, circlesGroup) {
 }
 
 // Retrieve data from the CSV file and execute everything below
-d3.csv("assets/data/dataSet2.csv", function (err, dataSet) {
+d3.csv("assets/data/dataSet.csv", function (err, dataSet) {
   if (err) throw err;
 
   // parse data
@@ -112,9 +123,7 @@ d3.csv("assets/data/dataSet2.csv", function (err, dataSet) {
   var xLinearScale = xScale(dataSet, chosenXAxis)
 
   // Create y scale function
-  var yLinearScale = d3.scaleLinear()
-    .domain([0, d3.max(dataSet, d => d.pct_depressed)])
-    .range([height, 0]);
+  var yLinearScale = yScale(dataSet, chosenYAxis)
 
   // Create initial axis functions
   var bottomAxis = d3.axisBottom(xLinearScale);
@@ -128,6 +137,8 @@ d3.csv("assets/data/dataSet2.csv", function (err, dataSet) {
 
   // append y axis
   chartGroup.append("g")
+  //  .classed("y-axis", true)
+  //  .attr("transform", `translate(0, ${height})`)
     .call(leftAxis)
 
   // append initial circles
@@ -136,10 +147,14 @@ d3.csv("assets/data/dataSet2.csv", function (err, dataSet) {
     .enter()
     .append("circle")
     .attr("cx", d => xLinearScale(d[chosenXAxis]))
-    .attr("cy", d => yLinearScale(d.pct_depressed))
+    .attr("cy", d => yLinearScale(d[chosenYAxis]))
     .attr("r", 10)
     .attr("fill", "pink")
     .attr("opacity", ".5")
+    .attr("stroke", "black")
+
+  // chartGroup.append("text")
+  //   .text(d => d[loc_abbr])
 
   // Create group for  2 x- axis labels
   var labelsGroup = chartGroup.append("g")
@@ -158,6 +173,14 @@ d3.csv("assets/data/dataSet2.csv", function (err, dataSet) {
     .attr("value", "median_age") //value to grab for event listener
     .classed("inactive", true)
     .text("Median Age (years)");
+
+  var giniLabel = labelsGroup.append("text")
+    .attr("x", 0)
+    .attr("y", 60)
+    .attr("value", "gini_index") //value to grab for event listener
+    .classed("inactive", true)
+    .text("Gini Index (0-1 income inequality)");
+
 
   // append y axis
   chartGroup.append("text")
@@ -186,12 +209,14 @@ d3.csv("assets/data/dataSet2.csv", function (err, dataSet) {
         // functions here found above csv import
         // updates x scale for new data
         xLinearScale = xScale(dataSet, chosenXAxis);
+        //yLinearScale = yScale(dataSet, chosenYAxis);
 
         // updates x axis with transition
-        xAxis = renderAxes(xLinearScale, xAxis);
+        xAxis = renderXAxes(xLinearScale, xAxis);
+        //yAxis = renderYAxes(yLinearScale, yAxis);
 
-        // updates circles with new x values
-        circlesGroup = renderCircles(circlesGroup, xLinearScale, chosenXAxis);
+        // updates circles with new x & y values
+        circlesGroup = renderCircles(circlesGroup, xLinearScale, chosenXAxis, chosenYAxis);
 
         // updates tooltips with new info
         circlesGroup = updateToolTip(chosenXAxis, circlesGroup);
@@ -204,11 +229,27 @@ d3.csv("assets/data/dataSet2.csv", function (err, dataSet) {
           incomeLabel
             .classed("active", false)
             .classed("inactive", true)
+          giniLabel
+            .classed("active", false)
+            .classed("inactive", true)
+        } else if (chosenXAxis == "median_income") {
+          ageLabel
+            .classed("active", false)
+            .classed("inactive", true)
+          incomeLabel
+            .classed("active", true)
+            .classed("inactive", false)
+          giniLabel
+            .classed("active", false)
+            .classed("inactive", true)
         } else {
           ageLabel
             .classed("active", false)
             .classed("inactive", true)
           incomeLabel
+            .classed("active", false)
+            .classed("inactive", true)
+          giniLabel
             .classed("active", true)
             .classed("inactive", false)
         };
